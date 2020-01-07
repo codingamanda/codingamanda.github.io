@@ -1,0 +1,76 @@
+body {
+    font-family: "Microsoft Yahei", sans-serif;
+    font-weight: lighter;
+}
+ 
+header {
+    background-image: url(image/avian-flu.jpg);
+    color: white;
+    width: 1140px;
+    height: 330px;
+    text-align: center;
+    margin: 0 auto;
+}
+ 
+#title {
+    display: inline-block;
+    font-size: 72px;
+    padding-top: 40px;
+    width: 960px;
+}
+ 
+#titlebottom {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 960px;
+    font-size: 24px;
+    padding: 30px 70px 100px 70px;
+}
+ 
+section {
+    width: 960px;
+    margin: 0 auto;
+    border-bottom: 1px solid rgb(200, 200, 200);
+}
+ 
+#topics {
+    width: 960px;
+    height: 620px;
+    margin: 0 auto;
+}
+ 
+#topics>div:first-child {
+    font-size: 38px;
+    text-align: center;
+    margin: 40px auto 30px auto;
+}
+ 
+#topicIntroduction {
+    display: flex;
+    justify-content: space-between;
+}
+ 
+#topicIntroduction div {
+    width: 260px;
+    height: 280px;
+}
+
+#topicIntroduction title {
+    text-align: center;
+    width: 260px;
+    font-size: 30px;
+}
+ 
+#topicIntroduction img {
+    max-width: 50%; 
+    max-height: 50%;
+    display: table-cell;
+    text-align: center;
+}
+
+#scripts div{
+    object-position: center;
+}
+
+
+          

@@ -1,13 +1,63 @@
 <!DOCTYPE html>
 <html lang="">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"/>
+    <title>Avian Influenza</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style> body {padding: 0; margin: 0;} </style>
-    <script src="libraries/p5.min.js"></script>
-    <script src="sketch.js"></script>
-	<title>Data</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    
+    
   </head>
   <body>
+      <header>
+          <div>
+              <div id="title">Avian Influenza</div>
+              <div id="titlebottom">
+                  The World Health Organization (WHO) indicated that the next pandemic is most likely to be caused by influenza.
+                  Moreover, some reports showed that Ebola and Avian Influenza would be the next pandemics.
+                  Therefore, we decided to conduct a research on the avian influenza epidemic which has more global influence in order to reduce or prevent the harm.
+              </div>
+          </div>
+      </header>
+  
+      <section>
+          <div id="topics">
+              <div>How the trades of poultry and eggs between countries changed over the spread of avian influenza?</div>
+              <div id="topicIntroduction">
+                  <div>
+                      <img src="image/what.JPG" />
+                      <p>The following visualization shows the animal(including live animal and poultry & egg)
+                        exportation and importation relation between the avian influenza affected countries</p>
+                  </div>
+                  <div>
+                      <img src="image/why.JPG" />
+                      <p>The reason why we should care about the trade of live animals between countries is because we found 
+                        there existed some poultry/eggs trades between Thailand and other countries(such as Japan) in 2004 
+                        when the outbreak happened in Thailand and some of these countries became the next outbreak places. 
+                        Therefore, we generated more comprehensive graphs to see if the commerce of infected products was 
+                        a cause of virus spread. 
+                      </p>
+                  </div>
+                  <div>
+                      <img src="image/how.jpg" />
+                      <p>To understand the visualization, please refer the following explanation.
+                         First, the middle bar shows the main outbreak countries.
+                         The left-hand side shows from which countries that the middle main country imported the live animals products.
+                         The right-hand side shows to which countries that the middle main country exported the live animals products.
+                         Second, the size of bubble shows the total trade of live animals.
+                         Third, the location of dotted lines shows how much trade money of the poultry and eggs products. 
+                      </p>
+                  </div>
+              </div>
+          </div>
+      </section>
+      <section>
+          <div id="scripts"> 
+            <div>
+              <script src="libraries/p5.min.js"></script>
+              <script src="sketch.js"></script>
+            </div>
+          </div>
+      </section>
   </body>
 </html>
