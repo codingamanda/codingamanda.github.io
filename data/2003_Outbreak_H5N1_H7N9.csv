@@ -1,0 +1,6 @@
+Id,latitude,longitude,region,country,observationDate,serotypes,speciesSource,species,sumAtRisk,sumCases,sumDeaths,humansAffected,humansDeaths
+175967,40.266901,116.593838,Asia,China,11/25/2003,H5N1 HPAI,,,0,0,0,1,1
+176055,21.139705,105.847715,Asia,Vietnam,12/22/2003,H5N1 HPAI,,,0,0,0,1,0
+171322,20.10604,106.13847,Asia,Vietnam,12/24/2003,H5N1 HPAI,,,0,0,0,1,1
+158682,20.456552,105.920056,Asia,Vietnam,12/24/2003,H5N1 HPAI,,,0,0,0,1,1
+158684,21.03466,106.06309,Asia,Vietnam,12/27/2003,H5N1 HPAI,,,0,0,0,1,1

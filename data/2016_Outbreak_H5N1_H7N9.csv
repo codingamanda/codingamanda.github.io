@@ -1,0 +1,948 @@
+210613,31.304,120.585,Asia,China,1/1/2016,H7N9 LPAI,,,0,0,0,1,0
+210610,31.304,120.585,Asia,China,1/1/2016,H7N9 LPAI,,,0,0,0,1,1
+209542,36.666667,116.983333,Asia,China,1/1/2016,H7N9 LPAI,,,0,0,0,1,0
+216743,-5.115007,120.212,Asia,Indonesia,1/2/2016,H5N1 HPAI,domestic,chicken,0,600,600,0,0
+210395,5.316667,-4.033333,Africa,Cote d'Ivoire,1/2/2016,H5N1 HPAI,domestic,chicken,1573,1022,1022,0,0
+209554,9.030175,7.58305,Africa,Nigeria,1/2/2016,H5N1 HPAI,domestic,chicken,10500,1635,1635,0,0
+209466,12.030589,8.637313,Africa,Nigeria,1/2/2016,H5N1 HPAI,wild,unspecified bird,1950,150,150,0,0
+209465,11.959379,8.379044,Africa,Nigeria,1/2/2016,H5N1 HPAI,wild,unspecified bird,12600,210,210,0,0
+209464,11.891864,8.141939,Africa,Nigeria,1/2/2016,H5N1 HPAI,wild,unspecified bird,900,16,16,0,0
+209555,11.6397,8.1674,Africa,Nigeria,1/3/2016,H5N1 HPAI,domestic,chicken,530,30,30,0,0
+216732,-6.48125,107.874,Asia,Indonesia,1/4/2016,H5N1 HPAI,domestic,chicken,0,14,14,0,0
+209690,43.301682,1.164933,Europe,France,1/4/2016,H5N1 HPAI,domestic,chicken,17000,480,480,0,0
+209564,6.7006,5.3698,Africa,Nigeria,1/4/2016,H5N1 HPAI,domestic,chicken,4200,420,420,0,0
+209558,11.9023,8.4639,Africa,Nigeria,1/4/2016,H5N1 HPAI,domestic,chicken,6900,171,171,0,0
+209557,11.7411,8.7071,Africa,Nigeria,1/4/2016,H5N1 HPAI,domestic,chicken,2000,46,46,0,0
+209556,8.6553,6.9331,Africa,Nigeria,1/4/2016,H5N1 HPAI,domestic,chicken,1125,112,112,0,0
+209541,26.13884,32.452374,Africa,Egypt,1/4/2016,H5N1 HPAI,domestic,chicken,0,18,0,0,0
+209560,9.7945,8.9078,Africa,Nigeria,1/5/2016,H5N1 HPAI,domestic,chicken,1000,76,76,0,0
+209559,11.2478,8.3868,Africa,Nigeria,1/5/2016,H5N1 HPAI,domestic,chicken,2500,300,300,0,0
+210618,31.304,120.585,Asia,China,1/5/2016,H7N9 LPAI,,,0,0,0,1,0
+209712,26.309817,31.860728,Africa,Egypt,1/6/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+209711,26.547103,31.685399,Africa,Egypt,1/6/2016,H5N1 HPAI,domestic,duck,0,5,0,0,0
+209710,26.547103,31.685399,Africa,Egypt,1/6/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+209708,26.669125,31.578478,Africa,Egypt,1/6/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,40,0,0,0
+209707,26.693537,31.658116,Africa,Egypt,1/6/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,60,0,0,0
+209562,11.5649,8.3197,Africa,Nigeria,1/6/2016,H5N1 HPAI,domestic,chicken,5635,83,83,0,0
+209561,8.652314,7.2632,Africa,Nigeria,1/6/2016,H5N1 HPAI,domestic,chicken,80000,20000,20000,0,0
+210611,29.857,121.572,Asia,China,1/6/2016,H7N9 LPAI,,,0,0,0,1,0
+209803,23.54,91.24,Asia,India,1/7/2016,H5N1 HPAI,domestic,unspecified bird,11348,1760,1760,0,0
+209714,24.930454,32.854484,Africa,Egypt,1/7/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,52,0,0,0
+209709,27.094324,31.364546,Africa,Egypt,1/7/2016,H5N1 HPAI,domestic,chicken,0,120,0,0,0
+209565,6.8595,7.5283,Africa,Nigeria,1/7/2016,H5N1 HPAI,domestic,chicken,2000,500,500,0,0
+209763,23.55,116.35,Asia,China,1/7/2016,H7N9 LPAI,,,0,0,0,1,0
+216730,-6.35483,107.974,Asia,Indonesia,1/8/2016,H5N1 HPAI,domestic,chicken,0,230,230,0,0
+209713,26.122962,32.089848,Africa,Egypt,1/8/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+209692,8.7376,7.2557,Africa,Nigeria,1/8/2016,H5N1 HPAI,domestic,chicken,180000,18000,18000,0,0
+209691,11.6277,8.6373,Africa,Nigeria,1/8/2016,H5N1 HPAI,domestic,chicken,2918,66,66,0,0
+210040,29.9918,120.559,Asia,China,1/8/2016,H7N9 LPAI,,,0,0,0,1,0
+209697,5.1422,6.3178,Africa,Nigeria,1/9/2016,H5N1 HPAI,domestic,chicken,3000,850,850,0,0
+209695,11.9323,8.2902,Africa,Nigeria,1/9/2016,H5N1 HPAI,domestic,chicken,7824,66,66,0,0
+209694,10.0021,8.845,Africa,Nigeria,1/9/2016,H5N1 HPAI,domestic,chicken,7000,3000,3000,0,0
+209693,9.8095,8.888,Africa,Nigeria,1/9/2016,H5N1 HPAI,domestic,chicken,391,11,11,0,0
+209771,10.1332,9.1579,Africa,Nigeria,1/10/2016,H5N1 HPAI,domestic,chicken,2411,1500,1500,0,0
+209770,11.7193,8.3293,Africa,Nigeria,1/10/2016,H5N1 HPAI,domestic,unspecified bird,23406,28,28,0,0
+209718,26.785216,31.453291,Africa,Egypt,1/10/2016,H5N1 HPAI,domestic,duck,0,9,0,0,0
+209716,26.874232,31.420982,Africa,Egypt,1/10/2016,H5N1 HPAI,domestic,chicken,0,5,0,0,0
+209696,9.7752,8.8652,Africa,Nigeria,1/10/2016,H5N1 HPAI,domestic,chicken,3200,320,320,0,0
+210623,31.304,120.585,Asia,China,1/10/2016,H7N9 LPAI,,,0,0,0,1,0
+210622,30.275,120.173,Asia,China,1/10/2016,H7N9 LPAI,,,0,0,0,1,0
+209878,26.12,105.28,Asia,China,1/11/2016,H5N1 HPAI,domestic,unspecified bird,35397,5869,5617,0,0
+209821,6.594,7.4559,Africa,Nigeria,1/11/2016,H5N1 HPAI,domestic,chicken,3000,1885,1885,0,0
+209775,12.0591,8.2976,Africa,Nigeria,1/11/2016,H5N1 HPAI,domestic,unspecified bird,32,9,9,0,0
+209774,12.9149,7.5431,Africa,Nigeria,1/11/2016,H5N1 HPAI,domestic,chicken,900,94,94,0,0
+209773,11.9461,8.3868,Africa,Nigeria,1/11/2016,H5N1 HPAI,domestic,unspecified bird,25,10,10,0,0
+209772,11.777,8.5503,Africa,Nigeria,1/11/2016,H5N1 HPAI,domestic,unspecified bird,196,25,25,0,0
+209717,29.825055,31.237321,Africa,Egypt,1/11/2016,H5N1 HPAI,domestic,goose,0,6,0,0,0
+209715,29.865555,31.330759,Africa,Egypt,1/11/2016,H5N1 HPAI,domestic,chicken,0,17,0,0,0
+210615,30.866,120.1,Asia,China,1/11/2016,H7N9 LPAI,,,0,0,0,1,1
+209552,23.133333,113.266667,Asia,China,1/11/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+209551,26.071111,119.303611,Asia,China,1/11/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+209550,28.441944,117.963333,Asia,China,1/11/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+209549,28.583333,112.333333,Asia,China,1/11/2016,H7N9 LPAI,domestic,"duck,chicken",0,2,0,0,0
+209548,29.366667,113.1,Asia,China,1/11/2016,H7N9 LPAI,domestic,duck,0,1,0,0,0
+209547,31.005833,121.233333,Asia,China,1/11/2016,H7N9 LPAI,domestic,"chicken,unspecified bird",0,2,0,0,0
+209546,31.566667,120.3,Asia,China,1/11/2016,H7N9 LPAI,domestic,"chicken,duck",0,3,0,0,0
+216736,-3.446657,114.75,Asia,Indonesia,1/12/2016,H5N1 HPAI,domestic,duck,0,21,21,0,0
+210402,5.52731,-0.27797,Africa,Ghana,1/12/2016,H5N1 HPAI,domestic,unspecified bird,450,193,193,0,0
+210364,5.35,-3.9,Africa,Cote d'Ivoire,1/12/2016,H5N1 HPAI,domestic,chicken,1150,150,100,0,0
+209823,6.2545,7.9745,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,chicken,250,75,75,0,0
+209822,5.8655,6.2552,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,chicken,1609,402,402,0,0
+209782,11.8428,8.3842,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,chicken,5970,49,49,0,0
+209781,11.6324,8.3775,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,chicken,850,19,19,0,0
+209780,10.0163,8.7776,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,chicken,3500,150,150,0,0
+209779,11.6275,8.3961,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,duck,15,3,3,0,0
+209778,10.6033,7.3045,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,chicken,30000,150,150,0,0
+209777,9.8726,8.811,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,chicken,650,50,50,0,0
+209776,11.6423,8.4833,Africa,Nigeria,1/12/2016,H5N1 HPAI,domestic,chicken,150,11,11,0,0
+210621,29.083,119.65,Asia,China,1/12/2016,H7N9 LPAI,,,0,0,0,1,0
+209785,9.6678,12.5598,Africa,Nigeria,1/13/2016,H5N1 HPAI,domestic,chicken,21000,1200,1200,0,0
+209784,11.9891,8.3484,Africa,Nigeria,1/13/2016,H5N1 HPAI,domestic,turkey,82,6,6,0,0
+209783,9.9388,8.8356,Africa,Nigeria,1/13/2016,H5N1 HPAI,domestic,chicken,150,50,50,0,0
+210620,26.071,119.327,Asia,China,1/13/2016,H7N9 LPAI,,,0,0,0,1,1
+210619,24.506,117.665,Asia,China,1/13/2016,H7N9 LPAI,,,0,0,0,1,0
+210612,30.511,120.674,Asia,China,1/13/2016,H7N9 LPAI,,,0,0,0,1,0
+209895,12.0014,8.4324,Africa,Nigeria,1/14/2016,H5N1 HPAI,domestic,chicken,750,48,48,0,0
+209894,11.7869,8.2038,Africa,Nigeria,1/14/2016,H5N1 HPAI,domestic,chicken,5577,150,150,0,0
+209893,11.9412,8.2375,Africa,Nigeria,1/14/2016,H5N1 HPAI,domestic,chicken,8373,247,247,0,0
+209788,11.8977,8.6129,Africa,Nigeria,1/14/2016,H5N1 HPAI,domestic,chicken,1516,58,58,0,0
+209787,9.7953,8.8446,Africa,Nigeria,1/14/2016,H5N1 HPAI,domestic,chicken,500,150,150,0,0
+209786,11.8353,8.3343,Africa,Nigeria,1/14/2016,H5N1 HPAI,domestic,chicken,300,60,60,0,0
+216742,-3.912648,119.774,Asia,Indonesia,1/15/2016,H5N1 HPAI,domestic,chicken,0,3207,3207,0,0
+216739,-5.059165,120.24,Asia,Indonesia,1/15/2016,H5N1 HPAI,domestic,chicken,0,800,800,0,0
+209908,6.6784,5.8533,Africa,Nigeria,1/15/2016,H5N1 HPAI,domestic,chicken,6700,14,14,0,0
+209896,11.97697,8.55474,Africa,Nigeria,1/15/2016,H5N1 HPAI,domestic,chicken,810,85,85,0,0
+209899,12.0954,8.0974,Africa,Nigeria,1/16/2016,H5N1 HPAI,domestic,chicken,1520,11,11,0,0
+209898,11.9215,8.3623,Africa,Nigeria,1/16/2016,H5N1 HPAI,domestic,chicken,1350,35,35,0,0
+209897,11.8833,8.1555,Africa,Nigeria,1/16/2016,H5N1 HPAI,domestic,chicken,800,58,58,0,0
+209901,9.86291,8.86645,Africa,Nigeria,1/17/2016,H5N1 HPAI,domestic,chicken,10000,309,309,0,0
+209900,8.9998,7.5039,Africa,Nigeria,1/17/2016,H5N1 HPAI,domestic,chicken,350,160,160,0,0
+210422,26.216667,111.616667,Asia,China,1/17/2016,H7N9 LPAI,,,0,0,0,1,1
+216738,-4.429319,104.356,Asia,Indonesia,1/18/2016,H5N1 HPAI,domestic,chicken,0,203,203,0,0
+209964,11.8156,8.2328,Africa,Nigeria,1/18/2016,H5N1 HPAI,domestic,chicken,2660,116,116,0,0
+209963,11.8058,8.3821,Africa,Nigeria,1/18/2016,H5N1 HPAI,domestic,chicken,1733,32,32,0,0
+209853,25.58333,32.5,Africa,Egypt,1/18/2016,H5N1 HPAI,domestic,chicken,0,3500,0,0,0
+209969,10.7986,7.4805,Africa,Nigeria,1/19/2016,H5N1 HPAI,domestic,chicken,4526,559,559,0,0
+209968,12.0993,8.7091,Africa,Nigeria,1/19/2016,H5N1 HPAI,domestic,chicken,800,106,106,0,0
+209967,11.8827,8.3436,Africa,Nigeria,1/19/2016,H5N1 HPAI,domestic,chicken,3200,219,219,0,0
+209856,25.85316,32.794489,Africa,Egypt,1/19/2016,H5N1 HPAI,domestic,"chicken,turkey,unspecified bird",0,14,0,0,0
+210629,31.639,120.783,Asia,China,1/19/2016,H7N9 LPAI,,,0,0,0,1,0
+210039,24.277,116.116,Asia,China,1/19/2016,H7N9 LPAI,,,0,0,0,1,0
+216737,-5.200974,104.999,Asia,Indonesia,1/20/2016,H5N1 HPAI,domestic,chicken,0,10,10,0,0
+216729,-6.17257,107.044,Asia,Indonesia,1/20/2016,H5N1 HPAI,domestic,chicken,0,30,30,0,0
+210004,9.8778,8.8159,Africa,Nigeria,1/20/2016,H5N1 HPAI,domestic,chicken,6091,77,77,0,0
+209974,10.2658,7.6273,Africa,Nigeria,1/20/2016,H5N1 HPAI,domestic,chicken,928,35,35,0,0
+209973,8.8364,7.3932,Africa,Nigeria,1/20/2016,H5N1 HPAI,domestic,chicken,2480,80,80,0,0
+209972,8.8195,7.3764,Africa,Nigeria,1/20/2016,H5N1 HPAI,domestic,chicken,3206,16,16,0,0
+209971,11.7962,8.3195,Africa,Nigeria,1/20/2016,H5N1 HPAI,domestic,chicken,4500,150,150,0,0
+209970,9.7804,8.8257,Africa,Nigeria,1/20/2016,H5N1 HPAI,domestic,chicken,8000,1000,1000,0,0
+209854,26.547103,31.685399,Africa,Egypt,1/20/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+210024,26.122962,32.089848,Africa,Egypt,1/21/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+210005,9.9137,8.9531,Africa,Nigeria,1/21/2016,H5N1 HPAI,domestic,chicken,4490,9,9,0,0
+209975,10.3021,7.5287,Africa,Nigeria,1/21/2016,H5N1 HPAI,domestic,chicken,9150,1285,1285,0,0
+209857,28.808572,30.830513,Africa,Egypt,1/21/2016,H5N1 HPAI,domestic,chicken,0,15,0,0,0
+209855,26.547103,31.685399,Africa,Egypt,1/21/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+210041,30,120.583333,Asia,China,1/21/2016,H7N9 LPAI,,,0,0,0,1,0
+210007,10.2471,8.9696,Africa,Nigeria,1/22/2016,H5N1 HPAI,domestic,chicken,1586,42,42,0,0
+210006,9.9302,8.7966,Africa,Nigeria,1/22/2016,H5N1 HPAI,domestic,chicken,3210,105,105,0,0
+210625,30.275,120.173,Asia,China,1/22/2016,H7N9 LPAI,,,0,0,0,1,1
+210624,30.511,120.674,Asia,China,1/22/2016,H7N9 LPAI,,,0,0,0,1,0
+210423,25.8,113.05,Asia,China,1/22/2016,H7N9 LPAI,,,0,0,0,1,0
+210014,25.907,112.221,Asia,China,1/22/2016,H7N9 LPAI,,,0,0,0,1,0
+210009,9.9597,8.8061,Africa,Nigeria,1/23/2016,H5N1 HPAI,domestic,chicken,1137,23,23,0,0
+210008,9.9351,8.8354,Africa,Nigeria,1/23/2016,H5N1 HPAI,domestic,chicken,5630,180,180,0,0
+210026,28.698346,30.748727,Africa,Egypt,1/24/2016,H5N1 HPAI,domestic,chicken,0,35,0,0,0
+210025,28.698346,30.748727,Africa,Egypt,1/24/2016,H5N1 HPAI,domestic,chicken,0,4,0,0,0
+211888,31.942889,45.636306,Asia,Iraq,1/25/2016,H5N1 HPAI,domestic,unspecified bird,7000,800,800,0,0
+211887,31.78333,45.732833,Asia,Iraq,1/25/2016,H5N1 HPAI,domestic,unspecified bird,6000,1200,1200,0,0
+210027,26.785216,31.453291,Africa,Egypt,1/25/2016,H5N1 HPAI,domestic,duck,0,5,0,0,0
+210628,30.212,119.731,Asia,China,1/25/2016,H7N9 LPAI,,,0,0,0,1,0
+210397,26.216667,111.616667,Asia,China,1/25/2016,H7N9 LPAI,,,0,0,0,1,1
+216731,-6.781724,108.187,Asia,Indonesia,1/26/2016,H5N1 HPAI,domestic,chicken,0,46,46,0,0
+210598,26.13884,32.452374,Africa,Egypt,1/26/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,16,0,0,0
+210028,28.520346,30.739265,Africa,Egypt,1/26/2016,H5N1 HPAI,domestic,chicken,0,13,0,0,0
+216741,-3.7154,120.38,Asia,Indonesia,1/27/2016,H5N1 HPAI,domestic,chicken,0,800,800,0,0
+216740,-3.814076,119.542,Asia,Indonesia,1/27/2016,H5N1 HPAI,domestic,chicken,0,800,800,0,0
+216734,-7.177404,106.845,Asia,Indonesia,1/27/2016,H5N1 HPAI,domestic,muscovy ducks,0,226,226,0,0
+216733,-7.177404,106.845,Asia,Indonesia,1/27/2016,H5N1 HPAI,domestic,quail,0,1122,1122,0,0
+210384,11.576,8.2453,Africa,Nigeria,1/27/2016,H5N1 HPAI,domestic,chicken,670,100,100,0,0
+210638,30.275,120.173,Asia,China,1/27/2016,H7N9 LPAI,,,0,0,0,1,0
+216735,-7.257467,108.138,Asia,Indonesia,1/28/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+216728,-6.378899,106.234,Asia,Indonesia,1/28/2016,H5N1 HPAI,domestic,chicken,0,103,103,0,0
+211481,30.81458,120.01959,Asia,China,1/28/2016,H7N9 LPAI,,,0,0,0,1,0
+211480,32.97482,119.56324,Asia,China,1/28/2016,H7N9 LPAI,,,0,0,0,1,1
+211479,30.81458,120.01959,Asia,China,1/28/2016,H7N9 LPAI,,,0,0,0,1,0
+210425,31.230278,121.470278,Asia,China,1/28/2016,H7N9 LPAI,,,0,0,0,1,1
+210386,11.665465,8.257631,Africa,Nigeria,1/29/2016,H5N1 HPAI,domestic,chicken,200000,1562,1562,0,0
+210385,9.93557,8.90053,Africa,Nigeria,1/29/2016,H5N1 HPAI,domestic,chicken,1890,100,100,0,0
+211482,31.439757,120.780204,Asia,China,1/29/2016,H7N9 LPAI,,,0,0,0,1,0
+210447,28.875,112.006,Asia,China,1/29/2016,H7N9 LPAI,domestic,unspecified bird,0,1,0,0,0
+210389,8.85206,9.86908,Africa,Nigeria,1/30/2016,H5N1 HPAI,domestic,chicken,216,15,15,0,0
+210388,11.926601,8.513924,Africa,Nigeria,1/30/2016,H5N1 HPAI,domestic,chicken,400,13,13,0,0
+210387,8.896,7.172,Africa,Nigeria,1/30/2016,H5N1 HPAI,domestic,chicken,4625,73,73,0,0
+211284,27.528918,120.430246,Asia,China,1/30/2016,H7N9 LPAI,,,0,0,0,1,1
+210391,11.556505,8.584152,Africa,Nigeria,1/31/2016,H5N1 HPAI,domestic,chicken,711,62,62,0,0
+210390,11.984845,8.519137,Africa,Nigeria,1/31/2016,H5N1 HPAI,domestic,chicken,2,1,1,0,0
+212122,28.89466,118.77749,Asia,China,1/31/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+212121,30.81458,120.01959,Asia,China,1/31/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+211483,25.87434,113.14998,Asia,China,1/31/2016,H7N9 LPAI,,,0,0,0,1,0
+216772,-5.10794,105.607,Asia,Indonesia,2/1/2016,H5N1 HPAI,domestic,chicken,0,1150,1150,0,0
+210607,24.9147,88.676,Asia,Bangladesh,2/1/2016,H5N1 HPAI,domestic,house crow,0,40,40,0,0
+210428,12.8039,9.4489,Africa,Nigeria,2/1/2016,H5N1 HPAI,domestic,chicken,3105,800,800,0,0
+210427,11.9865,8.5213,Africa,Nigeria,2/1/2016,H5N1 HPAI,domestic,chicken,120,29,29,0,0
+210406,11.8632,8.5441,Africa,Nigeria,2/1/2016,H5N1 HPAI,domestic,chicken,2500,67,67,0,0
+210405,11.9281,8.5045,Africa,Nigeria,2/1/2016,H5N1 HPAI,domestic,chicken,4500,350,350,0,0
+210404,9.86902,8.8493,Africa,Nigeria,2/1/2016,H5N1 HPAI,domestic,chicken,370,6,6,0,0
+210392,9.86465,8.8257,Africa,Nigeria,2/1/2016,H5N1 HPAI,domestic,chicken,2035,26,26,0,0
+211484,31.439757,120.780204,Asia,China,2/1/2016,H7N9 LPAI,,,0,0,0,1,0
+211889,33.04035,44.26558,Asia,Iraq,2/2/2016,H5N1 HPAI,domestic,unspecified bird,9500,5500,5500,0,0
+210599,30.834732,31.648792,Africa,Egypt,2/2/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,42,0,0,0
+210435,12.07458,8.43428,Africa,Nigeria,2/2/2016,H5N1 HPAI,domestic,chicken,7200,1950,1950,0,0
+210434,11.9732,8.5509,Africa,Nigeria,2/2/2016,H5N1 HPAI,domestic,chicken,3068,49,49,0,0
+210433,6.3702,8.0583,Africa,Nigeria,2/2/2016,H5N1 HPAI,domestic,chicken,1950,195,195,0,0
+210432,11.9881,8.5145,Africa,Nigeria,2/2/2016,H5N1 HPAI,domestic,chicken,300,50,50,0,0
+210431,11.9855,8.5604,Africa,Nigeria,2/2/2016,H5N1 HPAI,domestic,chicken,3010,130,130,0,0
+210430,9.88797,8.86548,Africa,Nigeria,2/2/2016,H5N1 HPAI,domestic,chicken,690,48,48,0,0
+210429,12.43466,9.27883,Africa,Nigeria,2/2/2016,H5N1 HPAI,domestic,chicken,700,230,230,0,0
+210407,9.79105,8.86725,Africa,Nigeria,2/2/2016,H5N1 HPAI,domestic,chicken,785,31,31,0,0
+211286,23.666667,116.633333,Asia,China,2/2/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+211285,29.866667,121.55,Asia,China,2/2/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+210637,23.358,116.7,Asia,China,2/2/2016,H7N9 LPAI,,,0,0,0,1,0
+216778,-3.84807,119.585,Asia,Indonesia,2/3/2016,H5N1 HPAI,domestic,chicken,0,1000,1000,0,0
+216770,-5.464091,105.397,Asia,Indonesia,2/3/2016,H5N1 HPAI,domestic,chicken,0,100,100,0,0
+216767,-7.376738,106.767,Asia,Indonesia,2/3/2016,H5N1 HPAI,domestic,chicken,0,56,56,0,0
+216766,-7.376738,106.767,Asia,Indonesia,2/3/2016,H5N1 HPAI,domestic,muscovy ducks,0,33,33,0,0
+216764,-6.798588,108.186,Asia,Indonesia,2/3/2016,H5N1 HPAI,domestic,chicken,0,25,25,0,0
+216763,-6.845875,108.241,Asia,Indonesia,2/3/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+216762,-6.604218,108.212,Asia,Indonesia,2/3/2016,H5N1 HPAI,domestic,chicken,0,35,35,0,0
+210442,12.1557,8.1403,Africa,Nigeria,2/3/2016,H5N1 HPAI,domestic,chicken,450,85,85,0,0
+210441,11.9237,8.5141,Africa,Nigeria,2/3/2016,H5N1 HPAI,domestic,chicken,9475,110,110,0,0
+210440,8.652314,7.2632,Africa,Nigeria,2/3/2016,H5N1 HPAI,domestic,chicken,1061,29,29,0,0
+210439,11.8439,8.5991,Africa,Nigeria,2/3/2016,H5N1 HPAI,domestic,chicken,5206,48,48,0,0
+210438,11.9295,8.5136,Africa,Nigeria,2/3/2016,H5N1 HPAI,domestic,chicken,972,15,15,0,0
+210437,10.4431,8.6568,Africa,Nigeria,2/3/2016,H5N1 HPAI,domestic,chicken,1700,52,52,0,0
+210436,12.4314,9.1934,Africa,Nigeria,2/3/2016,H5N1 HPAI,domestic,chicken,5000,750,750,0,0
+210424,26.216667,111.616667,Asia,China,2/3/2016,H7N9 LPAI,,,0,0,0,1,1
+210396,22.198327,113.548063,Asia,Macau,2/3/2016,H7N9 LPAI,domestic,"unspecified bird,chicken",15000,1,0,0,0
+216779,-3.809176,119.648,Asia,Indonesia,2/4/2016,H5N1 HPAI,domestic,chicken,0,5,5,0,0
+210587,12.582,4.1874,Africa,Nigeria,2/4/2016,H5N1 HPAI,domestic,chicken,1500,600,600,0,0
+210571,10.01864,8.946,Africa,Nigeria,2/4/2016,H5N1 HPAI,domestic,chicken,3000,6,6,0,0
+210445,8.652314,7.2632,Africa,Nigeria,2/4/2016,H5N1 HPAI,domestic,chicken,702,70,70,0,0
+210444,12.0941,8.7622,Africa,Nigeria,2/4/2016,H5N1 HPAI,domestic,chicken,300,50,50,0,0
+210443,8.652314,7.2632,Africa,Nigeria,2/4/2016,H5N1 HPAI,domestic,chicken,804,18,18,0,0
+211492,25.920724,117.920212,Asia,China,2/4/2016,H7N9 LPAI,,,0,0,0,1,0
+216746,-1.244119,102.141,Asia,Indonesia,2/5/2016,H5N1 HPAI,domestic,chicken,0,40,40,0,0
+210588,11.9653,8.6563,Africa,Nigeria,2/5/2016,H5N1 HPAI,domestic,chicken,10209,52,52,0,0
+210574,8.906,7.161,Africa,Nigeria,2/5/2016,H5N1 HPAI,domestic,chicken,13511,55,55,0,0
+210573,8.9204,7.5599,Africa,Nigeria,2/5/2016,H5N1 HPAI,domestic,chicken,512,3,3,0,0
+210572,12.0917,8.4911,Africa,Nigeria,2/5/2016,H5N1 HPAI,domestic,chicken,1300,80,80,0,0
+210590,12.0832,8.0904,Africa,Nigeria,2/6/2016,H5N1 HPAI,domestic,chicken,500,20,20,0,0
+210589,11.8302,8.4642,Africa,Nigeria,2/6/2016,H5N1 HPAI,domestic,chicken,930,142,142,0,0
+210578,9.89697,8.87025,Africa,Nigeria,2/6/2016,H5N1 HPAI,domestic,chicken,2569,156,156,0,0
+210577,11.9246,8.5016,Africa,Nigeria,2/6/2016,H5N1 HPAI,domestic,chicken,3000,447,447,0,0
+210576,10.2254,7.2434,Africa,Nigeria,2/6/2016,H5N1 HPAI,domestic,chicken,9602,3638,3638,0,0
+210575,10.2254,7.2434,Africa,Nigeria,2/6/2016,H5N1 HPAI,domestic,chicken,9602,3638,3638,0,0
+216747,-6.252892,107.067,Asia,Indonesia,2/7/2016,H5N1 HPAI,domestic,muscovy ducks,0,1,1,0,0
+211890,33.61841,44.42122,Asia,Iraq,2/7/2016,H5N1 HPAI,domestic,unspecified bird,10000,5000,5000,0,0
+210600,31.04882,31.52871,Africa,Egypt,2/7/2016,H5N1 HPAI,domestic,"chicken,turkey,unspecified bird",0,20,0,0,0
+210593,11.6526,8.0497,Africa,Nigeria,2/7/2016,H5N1 HPAI,domestic,chicken,470,10,10,0,0
+210592,12.0327,8.3675,Africa,Nigeria,2/7/2016,H5N1 HPAI,domestic,chicken,920,70,70,0,0
+210591,12.0279,8.1075,Africa,Nigeria,2/7/2016,H5N1 HPAI,domestic,chicken,300,20,20,0,0
+210579,9.90324,8.86647,Africa,Nigeria,2/7/2016,H5N1 HPAI,domestic,chicken,650,19,19,0,0
+210723,23.843741,116.761624,Asia,China,2/7/2016,H7N9 LPAI,,,0,0,0,1,0
+216751,-6.470228,107.948,Asia,Indonesia,2/8/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+210601,25.67927,32.69653,Africa,Egypt,2/8/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,30,0,0,0
+210594,9.84788,8.84769,Africa,Nigeria,2/8/2016,H5N1 HPAI,domestic,chicken,2820,228,228,0,0
+210793,22.408705,114.057637,Asia,"Hong Kong, SAR",2/8/2016,H7N9 LPAI,,,0,0,0,1,0
+216773,-5.202662,105.714,Asia,Indonesia,2/9/2016,H5N1 HPAI,domestic,chicken,0,200,200,0,0
+216758,-6.519137,108.274,Asia,Indonesia,2/9/2016,H5N1 HPAI,domestic,duck,0,30,30,0,0
+210766,25.85316,32.794489,Africa,Egypt,2/9/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+210626,12.60031,6.58975,Africa,Nigeria,2/9/2016,H5N1 HPAI,domestic,chicken,18000,3435,3435,0,0
+210725,23.596506,112.132211,Asia,China,2/9/2016,H7N9 LPAI,,,0,0,0,1,0
+210767,29.208352,30.709447,Africa,Egypt,2/10/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+210721,12.9065,7.6162,Africa,Nigeria,2/10/2016,H5N1 HPAI,domestic,chicken,5000,60,60,0,0
+211487,31.56883,120.34412,Asia,China,2/10/2016,H7N9 LPAI,,,0,0,0,1,0
+210727,29.513856,121.133107,Asia,China,2/10/2016,H7N9 LPAI,,,0,0,0,1,0
+210726,37.405,121.591,Asia,China,2/10/2016,H7N9 LPAI,,,0,0,0,1,1
+216777,-4.889079,104.902,Asia,Indonesia,2/11/2016,H5N1 HPAI,domestic,chicken,0,6,6,0,0
+216771,-5.252373,105.211,Asia,Indonesia,2/11/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+216757,-6.620723,108.018,Asia,Indonesia,2/11/2016,H5N1 HPAI,domestic,chicken,0,11,11,0,0
+210857,11.9261,8.5024,Africa,Nigeria,2/11/2016,H5N1 HPAI,domestic,chicken,952,85,85,0,0
+210768,26.547103,31.685399,Africa,Egypt,2/11/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+210627,9.9099,8.80471,Africa,Nigeria,2/11/2016,H5N1 HPAI,domestic,chicken,6884,200,200,0,0
+211486,27.03828,113.51207,Asia,China,2/11/2016,H7N9 LPAI,,,0,0,0,1,0
+211485,25.77247,111.88768,Asia,China,2/11/2016,H7N9 LPAI,,,0,0,0,1,0
+216769,-5.021062,104.064,Asia,Indonesia,2/12/2016,H5N1 HPAI,domestic,chicken,0,15,15,0,0
+210861,11.9993,8.5744,Africa,Nigeria,2/12/2016,H5N1 HPAI,domestic,chicken,70,10,10,0,0
+210860,11.9993,8.5654,Africa,Nigeria,2/12/2016,H5N1 HPAI,domestic,chicken,940,47,47,0,0
+210859,11.9025,8.3049,Africa,Nigeria,2/12/2016,H5N1 HPAI,domestic,chicken,120,35,35,0,0
+210858,11.6844,8.3736,Africa,Nigeria,2/12/2016,H5N1 HPAI,domestic,chicken,4600,190,190,0,0
+210769,26.122962,32.089848,Africa,Egypt,2/12/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+210724,22.297231,112.543307,Asia,China,2/12/2016,H7N9 LPAI,,,0,0,0,1,1
+216750,-6.457261,107.968,Asia,Indonesia,2/13/2016,H5N1 HPAI,domestic,chicken,0,17,17,0,0
+210862,12.0553,8.2763,Africa,Nigeria,2/13/2016,H5N1 HPAI,domestic,chicken,987,30,30,0,0
+210865,12.00601,8.5147,Africa,Nigeria,2/14/2016,H5N1 HPAI,domestic,chicken,200,38,38,0,0
+210864,12.0018,8.5774,Africa,Nigeria,2/14/2016,H5N1 HPAI,domestic,chicken,1050,29,29,0,0
+210863,9.86176,8.86206,Africa,Nigeria,2/14/2016,H5N1 HPAI,domestic,chicken,4500,20,20,0,0
+210770,30.03167,31.11194,Africa,Egypt,2/14/2016,H5N1 HPAI,domestic,chicken,0,20,0,0,0
+211491,31.56883,120.34412,Asia,China,2/14/2016,H7N9 LPAI,,,0,0,0,1,0
+211488,26.00369,119.11539,Asia,China,2/14/2016,H7N9 LPAI,,,0,0,0,1,0
+210934,9.9323,106.1524,Asia,Vietnam,2/15/2016,H5N1 HPAI,domestic,unspecified bird,1100,796,796,0,0
+210866,11.9293,8.4901,Africa,Nigeria,2/15/2016,H5N1 HPAI,domestic,chicken,230,20,20,0,0
+210722,9.9542,8.9007,Africa,Nigeria,2/15/2016,H5N1 HPAI,domestic,chicken,6200,100,100,0,0
+211489,29.19013,119.73428,Asia,China,2/15/2016,H7N9 LPAI,,,0,0,0,1,1
+211301,24.794015,116.821217,Asia,China,2/15/2016,H7N9 LPAI,,,0,0,0,1,1
+210640,30.814585,120.01959,Asia,China,2/15/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+210639,28.894665,118.77749,Asia,China,2/15/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+210867,11.92787,8.52308,Africa,Nigeria,2/16/2016,H5N1 HPAI,domestic,chicken,5120,50,50,0,0
+216745,-8.292791,114.648,Asia,Indonesia,2/17/2016,H5N1 HPAI,domestic,duck,0,300,300,0,0
+210868,11.91763,8.50142,Africa,Nigeria,2/17/2016,H5N1 HPAI,domestic,chicken,3490,82,82,0,0
+210771,30.949152,31.577861,Africa,Egypt,2/17/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,36,0,0,0
+216768,-7.446036,112.66,Asia,Indonesia,2/18/2016,H5N1 HPAI,domestic,muscovy ducks,0,50,50,0,0
+216759,-6.978111,108.56,Asia,Indonesia,2/18/2016,H5N1 HPAI,domestic,chicken,0,9000,9000,0,0
+210772,24.930454,32.854484,Africa,Egypt,2/18/2016,H5N1 HPAI,domestic,chicken,0,40,0,0,0
+211490,31.56883,120.34412,Asia,China,2/19/2016,H7N9 LPAI,,,0,0,0,1,0
+216749,-6.499593,107.912,Asia,Indonesia,2/20/2016,H5N1 HPAI,domestic,chicken,0,37,37,0,0
+210958,11.9746,8.5631,Africa,Nigeria,2/20/2016,H5N1 HPAI,domestic,chicken,2017,45,45,0,0
+212914,13.5262,2.0614,Africa,Niger,2/21/2016,H5N1 HPAI,domestic,chicken,86000,86000,86000,0,0
+210946,30.966226,30.960686,Africa,Egypt,2/21/2016,H5N1 HPAI,domestic,"duck,turkey,unspecified bird",0,15,0,0,0
+212526,31.35,118.43,Asia,China,2/21/2016,H7N9 LPAI,,,0,0,0,1,1
+216748,-6.566758,107.911,Asia,Indonesia,2/22/2016,H5N1 HPAI,domestic,quail,0,127,127,0,0
+210961,9.83577,8.8589,Africa,Nigeria,2/22/2016,H5N1 HPAI,domestic,chicken,1078,41,41,0,0
+210960,11.9836,8.5111,Africa,Nigeria,2/22/2016,H5N1 HPAI,domestic,chicken,1040,35,35,0,0
+216761,-6.99008,108.632,Asia,Indonesia,2/23/2016,H5N1 HPAI,domestic,chicken,0,338,338,0,0
+216780,-0.674422,101.03,Asia,Indonesia,2/24/2016,H5N1 HPAI,domestic,chicken,0,26,26,0,0
+216775,-4.879498,104.949,Asia,Indonesia,2/24/2016,H5N1 HPAI,domestic,quail,0,1894,1894,0,0
+216765,-6.446018,107.472,Asia,Indonesia,2/24/2016,H5N1 HPAI,domestic,quail,0,100,100,0,0
+216755,-6.418142,108.408,Asia,Indonesia,2/24/2016,H5N1 HPAI,domestic,chicken,0,11,11,0,0
+211291,30.016667,31.216667,Africa,Egypt,2/24/2016,H5N1 HPAI,,,0,0,0,1,0
+211078,9.82682,8.86258,Africa,Nigeria,2/24/2016,H5N1 HPAI,domestic,chicken,6451,400,400,0,0
+210963,10.5761,7.6445,Africa,Nigeria,2/24/2016,H5N1 HPAI,domestic,chicken,2886,366,366,0,0
+210962,8.943,7.456,Africa,Nigeria,2/24/2016,H5N1 HPAI,domestic,unspecified bird,5799,954,954,0,0
+210951,25.85316,32.794489,Africa,Egypt,2/24/2016,H5N1 HPAI,domestic,"chicken,duck,turkey,unspecified bird",0,25,0,0,0
+210950,26.547103,31.685399,Africa,Egypt,2/24/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+210949,29.208352,30.709447,Africa,Egypt,2/24/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+210948,30.600686,30.870326,Africa,Egypt,2/24/2016,H5N1 HPAI,domestic,chicken,0,22,0,0,0
+210947,29.564593,31.234811,Africa,Egypt,2/24/2016,H5N1 HPAI,domestic,turkey,0,7,0,0,0
+212549,24.395558,117.412084,Asia,China,2/24/2016,H7N9 LPAI,,,0,0,0,1,0
+211283,32.807133,116.722904,Asia,China,2/24/2016,H7N9 LPAI,,,0,0,0,1,1
+216776,-4.590759,104.849,Asia,Indonesia,2/25/2016,H5N1 HPAI,domestic,chicken,0,7,7,0,0
+216760,-6.969366,108.712,Asia,Indonesia,2/25/2016,H5N1 HPAI,domestic,chicken,0,31,31,0,0
+216756,-6.467094,108.461,Asia,Indonesia,2/25/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216752,-6.348654,108.311,Asia,Indonesia,2/25/2016,H5N1 HPAI,domestic,duck,0,8,8,0,0
+216744,-8.09208,115.115,Asia,Indonesia,2/25/2016,H5N1 HPAI,domestic,duck,0,159,159,0,0
+211133,29.865555,31.330759,Africa,Egypt,2/25/2016,H5N1 HPAI,domestic,duck,0,35,0,0,0
+211103,26.55,31.7,Africa,Egypt,2/25/2016,H5N1 HPAI,,,0,0,0,1,0
+211079,11.9974,8.3536,Africa,Nigeria,2/25/2016,H5N1 HPAI,domestic,chicken,68000,53,53,0,0
+212535,33.542859,120.018656,Asia,China,2/25/2016,H7N9 LPAI,,,0,0,0,1,0
+216753,-6.336526,108.33,Asia,Indonesia,2/26/2016,H5N1 HPAI,domestic,chicken,0,5,5,0,0
+211135,28.641276,30.763997,Africa,Egypt,2/26/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,30,0,0,0
+211134,27.655931,30.7855,Africa,Egypt,2/26/2016,H5N1 HPAI,domestic,turkey,0,4,0,0,0
+211083,11.9948,8.5748,Africa,Nigeria,2/26/2016,H5N1 HPAI,domestic,chicken,1050,19,19,0,0
+211082,11.5489,7.8216,Africa,Nigeria,2/26/2016,H5N1 HPAI,domestic,chicken,186,20,20,0,0
+211081,11.9069,8.2326,Africa,Nigeria,2/26/2016,H5N1 HPAI,domestic,chicken,2350,65,65,0,0
+211080,9.85261,8.85594,Africa,Nigeria,2/26/2016,H5N1 HPAI,domestic,chicken,458,5,5,0,0
+210959,11.9289,8.4725,Africa,Nigeria,2/26/2016,H5N1 HPAI,domestic,chicken,300,60,60,0,0
+211300,22.510639,113.376524,Asia,China,2/26/2016,H7N9 LPAI,,,0,0,0,1,0
+211282,23.045287,116.292991,Asia,China,2/26/2016,H7N9 LPAI,,,0,0,0,1,0
+211123,7.2006,8.11628,Africa,Nigeria,2/27/2016,H5N1 HPAI,domestic,chicken,350,148,148,0,0
+211085,11.9311,8.4784,Africa,Nigeria,2/27/2016,H5N1 HPAI,domestic,chicken,850,150,150,0,0
+211084,9.83053,8.85663,Africa,Nigeria,2/27/2016,H5N1 HPAI,domestic,chicken,456,30,30,0,0
+210964,8.70243,9.13629,Africa,Nigeria,2/27/2016,H5N1 HPAI,domestic,chicken,1050,570,570,0,0
+216754,-6.425519,108.297,Asia,Indonesia,2/28/2016,H5N1 HPAI,domestic,muscovy ducks,0,28,28,0,0
+211136,28.698346,30.748727,Africa,Egypt,2/28/2016,H5N1 HPAI,domestic,turkey,0,7,0,0,0
+216774,-5.016112,104.737,Asia,Indonesia,2/29/2016,H5N1 HPAI,domestic,chicken,0,596,596,0,0
+211706,-3.844316,119.919826,Asia,Indonesia,2/29/2016,H5N1 HPAI,domestic,"duck,chicken",0,11000,11000,0,0
+211137,26.13884,32.452374,Africa,Egypt,2/29/2016,H5N1 HPAI,domestic,chicken,0,152,0,0,0
+211090,9.85348,8.01702,Africa,Nigeria,2/29/2016,H5N1 HPAI,domestic,chicken,39763,1500,1500,0,0
+211089,11.9851,8.5014,Africa,Nigeria,2/29/2016,H5N1 HPAI,domestic,chicken,18,4,4,0,0
+211088,9.89944,8.88723,Africa,Nigeria,2/29/2016,H5N1 HPAI,domestic,chicken,2050,53,53,0,0
+211087,9.85348,8.01702,Africa,Nigeria,2/29/2016,H5N1 HPAI,domestic,chicken,39763,1500,1500,0,0
+211086,11.9869,8.5598,Africa,Nigeria,2/29/2016,H5N1 HPAI,domestic,chicken,350,20,20,0,0
+216827,-3.965929,119.791,Asia,Indonesia,3/1/2016,H5N1 HPAI,domestic,chicken,0,1347,1347,0,0
+211307,11.8424,8.5765,Africa,Nigeria,3/1/2016,H5N1 HPAI,domestic,chicken,270,29,29,0,0
+211288,30.410105,33.728516,Africa,Egypt,3/1/2016,H5N1 HPAI,domestic,chicken,0,30,0,0,0
+211196,12.1636,6.6164,Africa,Nigeria,3/1/2016,H5N1 HPAI,domestic,chicken,8699,228,228,0,0
+211125,8.88,7.578,Africa,Nigeria,3/1/2016,H5N1 HPAI,domestic,chicken,1499,75,75,0,0
+211124,9.94379,8.89447,Africa,Nigeria,3/1/2016,H5N1 HPAI,domestic,chicken,382,20,20,0,0
+211092,9.9006,8.88721,Africa,Nigeria,3/1/2016,H5N1 HPAI,domestic,chicken,248,5,5,0,0
+211091,9.91052,8.86477,Africa,Nigeria,3/1/2016,H5N1 HPAI,domestic,unspecified bird,690,7,7,0,0
+212550,29.87924,119.4402,Asia,China,3/1/2016,H7N9 LPAI,,,0,0,0,1,1
+212527,31.35,118.43,Asia,China,3/1/2016,H7N9 LPAI,,,0,0,0,1,0
+211287,31.010529,112.67466,Asia,China,3/1/2016,H7N9 LPAI,,,0,0,0,1,0
+216826,-5.372615,119.474,Asia,Indonesia,3/2/2016,H5N1 HPAI,domestic,chicken,0,7585,7585,0,0
+216792,-6.974408,108.581,Asia,Indonesia,3/2/2016,H5N1 HPAI,domestic,quail,0,1200,1200,0,0
+211309,12.0951,8.7611,Africa,Nigeria,3/2/2016,H5N1 HPAI,domestic,chicken,1350,220,220,0,0
+211308,12.0714,8.5021,Africa,Nigeria,3/2/2016,H5N1 HPAI,domestic,unspecified bird,77,15,15,0,0
+211127,9.79097,8.85703,Africa,Nigeria,3/2/2016,H5N1 HPAI,domestic,chicken,465,7,7,0,0
+211126,9.92086,8.90739,Africa,Nigeria,3/2/2016,H5N1 HPAI,domestic,chicken,886,60,60,0,0
+216822,-5.280769,104.767,Asia,Indonesia,3/3/2016,H5N1 HPAI,domestic,chicken,0,15,15,0,0
+216820,-5.48688,104.217,Asia,Indonesia,3/3/2016,H5N1 HPAI,domestic,duck,0,3,3,0,0
+216819,-5.211564,103.976,Asia,Indonesia,3/3/2016,H5N1 HPAI,domestic,duck,0,3,3,0,0
+216818,-5.649482,105.162,Asia,Indonesia,3/3/2016,H5N1 HPAI,domestic,chicken,0,1,1,0,0
+216796,-6.633704,108.084,Asia,Indonesia,3/3/2016,H5N1 HPAI,domestic,chicken,0,97,97,0,0
+216785,-6.360948,107.158,Asia,Indonesia,3/3/2016,H5N1 HPAI,domestic,chicken,0,2,2,0,0
+211289,25.660463,32.654871,Africa,Egypt,3/3/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,85,0,0,0
+216821,-5.270795,104.969,Asia,Indonesia,3/4/2016,H5N1 HPAI,domestic,chicken,0,2300,2300,0,0
+216788,-6.341386,108.348,Asia,Indonesia,3/4/2016,H5N1 HPAI,domestic,chicken,0,48,48,0,0
+211310,12.0934,8.4993,Africa,Nigeria,3/4/2016,H5N1 HPAI,domestic,chicken,111,28,28,0,0
+211278,29.980221,31.291361,Africa,Egypt,3/4/2016,H5N1 HPAI,,,0,0,0,1,0
+211197,10.1621,9.2597,Africa,Nigeria,3/4/2016,H5N1 HPAI,domestic,chicken,5000,263,263,0,0
+211312,12.0868,8.8291,Africa,Nigeria,3/6/2016,H5N1 HPAI,domestic,chicken,2050,62,62,0,0
+211311,10.45244,8.6452,Africa,Nigeria,3/6/2016,H5N1 HPAI,domestic,chicken,3500,80,80,0,0
+211299,23.352106,116.44304,Asia,China,3/6/2016,H7N9 LPAI,,,0,0,0,1,0
+216823,-3.416797,119.299,Asia,Indonesia,3/7/2016,H5N1 HPAI,domestic,chicken,0,7,7,0,0
+216814,-4.982367,105.368,Asia,Indonesia,3/7/2016,H5N1 HPAI,domestic,chicken,0,4,4,0,0
+211317,9.82847,8.85518,Africa,Nigeria,3/7/2016,H5N1 HPAI,domestic,chicken,970,100,100,0,0
+211316,9.86116,8.8265,Africa,Nigeria,3/7/2016,H5N1 HPAI,domestic,chicken,845,20,20,0,0
+211315,9.83391,8.86002,Africa,Nigeria,3/7/2016,H5N1 HPAI,domestic,chicken,517,26,26,0,0
+211314,9.87092,8.83276,Africa,Nigeria,3/7/2016,H5N1 HPAI,domestic,chicken,1520,105,105,0,0
+211313,9.9422,8.8762,Africa,Nigeria,3/7/2016,H5N1 HPAI,domestic,chicken,800,130,130,0,0
+211496,12.2638,7.297,Africa,Nigeria,3/8/2016,H5N1 HPAI,domestic,chicken,51303,1364,1364,0,0
+211363,30.030273,31.190003,Africa,Egypt,3/8/2016,H5N1 HPAI,,,0,0,0,1,1
+211360,27.655931,30.7855,Africa,Egypt,3/8/2016,H5N1 HPAI,domestic,turkey,0,5,0,0,0
+211318,9.90154,8.88745,Africa,Nigeria,3/8/2016,H5N1 HPAI,domestic,chicken,850,11,11,0,0
+216811,-5.332484,105.237,Asia,Indonesia,3/9/2016,H5N1 HPAI,domestic,chicken,0,200,200,0,0
+216806,-8.431952,114.167,Asia,Indonesia,3/9/2016,H5N1 HPAI,domestic,chicken,0,400,400,0,0
+216805,-8.431952,114.167,Asia,Indonesia,3/9/2016,H5N1 HPAI,domestic,muscovy ducks,0,200,200,0,0
+216804,-8.431952,114.167,Asia,Indonesia,3/9/2016,H5N1 HPAI,domestic,duck,0,1000,1000,0,0
+211320,9.79097,8.85703,Africa,Nigeria,3/9/2016,H5N1 HPAI,domestic,chicken,465,7,7,0,0
+211319,9.83465,8.86254,Africa,Nigeria,3/9/2016,H5N1 HPAI,domestic,chicken,380,60,60,0,0
+212537,31.439757,120.780204,Asia,China,3/9/2016,H7N9 LPAI,,,0,0,0,1,1
+212528,25.196803,116.652423,Asia,China,3/9/2016,H7N9 LPAI,,,0,0,0,1,0
+216808,-7.328588,112.089,Asia,Indonesia,3/10/2016,H5N1 HPAI,domestic,chicken,0,610,610,0,0
+211500,11.8399,8.3192,Africa,Nigeria,3/10/2016,H5N1 HPAI,domestic,chicken,2108,300,300,0,0
+211499,12.9057,5.3396,Africa,Nigeria,3/10/2016,H5N1 HPAI,domestic,chicken,6000,1135,1135,0,0
+211498,11.9166,8.2852,Africa,Nigeria,3/10/2016,H5N1 HPAI,domestic,chicken,4200,10,10,0,0
+211497,10.2684,9.2693,Africa,Nigeria,3/10/2016,H5N1 HPAI,domestic,chicken,61000,2251,2251,0,0
+212551,30.689434,120.845294,Asia,China,3/10/2016,H7N9 LPAI,,,0,0,0,1,0
+211348,22.408705,114.057637,Asia,"Hong Kong, SAR",3/10/2016,H7N9 LPAI,,,0,0,0,1,0
+216816,-4.840563,104.824,Asia,Indonesia,3/11/2016,H5N1 HPAI,domestic,quail,0,673,673,0,0
+211501,12.0651,6.5366,Africa,Nigeria,3/11/2016,H5N1 HPAI,domestic,chicken,3000,57,57,0,0
+214961,5.316667,-4.033333,Africa,Cote d'Ivoire,3/12/2016,H5N1 HPAI,domestic,chicken,90,1,0,0,0
+214960,5.316667,-4.033333,Africa,Cote d'Ivoire,3/12/2016,H5N1 HPAI,domestic,chicken,110,1,0,0,0
+214916,5.424809,-4.018842,Africa,Cote d'Ivoire,3/12/2016,H5N1 HPAI,domestic,chicken,200,1,0,0,0
+214915,5.299354,-3.975179,Africa,Cote d'Ivoire,3/12/2016,H5N1 HPAI,domestic,guinea fowl,130,1,0,0,0
+214914,7.7158,-3.3725,Africa,Cote d'Ivoire,3/12/2016,H5N1 HPAI,domestic,chicken,0,1,0,0,0
+211505,12.9057,5.3396,Africa,Nigeria,3/12/2016,H5N1 HPAI,domestic,chicken,6000,1135,1135,0,0
+211504,12.1925,8.6281,Africa,Nigeria,3/12/2016,H5N1 HPAI,domestic,chicken,5701,58,58,0,0
+211503,11.883,8.6275,Africa,Nigeria,3/12/2016,H5N1 HPAI,domestic,chicken,11567,220,220,0,0
+211502,9.8369,8.92143,Africa,Nigeria,3/12/2016,H5N1 HPAI,domestic,chicken,4300,110,110,0,0
+216787,-6.383499,107.979,Asia,Indonesia,3/13/2016,H5N1 HPAI,domestic,duck,0,20,20,0,0
+211507,12.8512,7.7048,Africa,Nigeria,3/13/2016,H5N1 HPAI,domestic,chicken,2000,193,193,0,0
+211506,11.7268,8.2254,Africa,Nigeria,3/13/2016,H5N1 HPAI,domestic,chicken,152,40,40,0,0
+211361,29.300739,30.889937,Africa,Egypt,3/13/2016,H5N1 HPAI,domestic,duck,0,20,0,0,0
+216824,-3.682952,119.593,Asia,Indonesia,3/14/2016,H5N1 HPAI,domestic,chicken,0,900,900,0,0
+211538,6.5371,5.5671,Africa,Nigeria,3/14/2016,H5N1 HPAI,domestic,chicken,3550,620,620,0,0
+211537,6.3619,5.6247,Africa,Nigeria,3/14/2016,H5N1 HPAI,domestic,chicken,2000,323,323,0,0
+211536,6.3408,5.6636,Africa,Nigeria,3/14/2016,H5N1 HPAI,domestic,chicken,1000,62,62,0,0
+211535,6.3463,5.6394,Africa,Nigeria,3/14/2016,H5N1 HPAI,domestic,chicken,3200,430,430,0,0
+211510,11.9237,8.4609,Africa,Nigeria,3/14/2016,H5N1 HPAI,domestic,chicken,2000,200,200,0,0
+211509,11.9293,8.4444,Africa,Nigeria,3/14/2016,H5N1 HPAI,domestic,chicken,4275,60,60,0,0
+211508,12.0167,8.5959,Africa,Nigeria,3/14/2016,H5N1 HPAI,domestic,chicken,531,32,32,0,0
+211362,29.981622,31.257627,Africa,Egypt,3/14/2016,H5N1 HPAI,domestic,duck,0,11,0,0,0
+216784,-7.775319,110.367,Asia,Indonesia,3/15/2016,H5N1 HPAI,domestic,chicken,0,10,10,0,0
+216783,-7.775319,110.367,Asia,Indonesia,3/15/2016,H5N1 HPAI,domestic,muscovy ducks,0,7,7,0,0
+211660,-6.27621,106.788278,Asia,Indonesia,3/15/2016,H5N1 HPAI,domestic,"duck,chicken",0,30,0,0,0
+211512,11.9242,8.2011,Africa,Nigeria,3/15/2016,H5N1 HPAI,domestic,goose,10,3,3,0,0
+211511,9.83539,8.86236,Africa,Nigeria,3/15/2016,H5N1 HPAI,domestic,chicken,934,100,100,0,0
+216789,-6.418142,108.408,Asia,Indonesia,3/16/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+211513,9.891,8.8015,Africa,Nigeria,3/16/2016,H5N1 HPAI,domestic,chicken,1600,14,14,0,0
+211553,30.651944,118.722518,Asia,China,3/16/2016,H7N9 LPAI,,,0,0,0,1,1
+211619,11.9474,8.5126,Africa,Nigeria,3/17/2016,H5N1 HPAI,domestic,chicken,779,17,17,0,0
+211605,29.208352,30.709447,Africa,Egypt,3/17/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+211604,29.300739,30.889937,Africa,Egypt,3/17/2016,H5N1 HPAI,domestic,duck,0,15,0,0,0
+216790,-6.484948,108.443,Asia,Indonesia,3/18/2016,H5N1 HPAI,domestic,chicken,0,1,1,0,0
+211620,12.0833,8.5131,Africa,Nigeria,3/18/2016,H5N1 HPAI,domestic,chicken,120,15,15,0,0
+212536,32.207145,120.850858,Asia,China,3/18/2016,H7N9 LPAI,,,0,0,0,1,0
+211623,6.3408,5.6636,Africa,Nigeria,3/19/2016,H5N1 HPAI,domestic,chicken,2000,410,410,0,0
+212538,33.389202,119.104682,Asia,China,3/19/2016,H7N9 LPAI,,,0,0,0,1,0
+211622,9.8737,8.8479,Africa,Nigeria,3/20/2016,H5N1 HPAI,domestic,chicken,8995,206,206,0,0
+211621,12.2634,7.3414,Africa,Nigeria,3/20/2016,H5N1 HPAI,domestic,chicken,2000,90,90,0,0
+211606,29.442171,30.831992,Africa,Egypt,3/20/2016,H5N1 HPAI,domestic,chicken,0,7000,0,0,0
+211596,27.01,118.28,Asia,China,3/20/2016,H7N9 LPAI,,,0,0,0,1,0
+216798,-6.791578,106.637,Asia,Indonesia,3/21/2016,H5N1 HPAI,domestic,chicken,0,185,185,0,0
+211609,31.052301,31.451994,Africa,Egypt,3/21/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+211608,28.101845,30.721899,Africa,Egypt,3/21/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+211607,28.101845,30.721899,Africa,Egypt,3/21/2016,H5N1 HPAI,domestic,duck,0,3,0,0,0
+216825,-3.782834,119.647,Asia,Indonesia,3/22/2016,H5N1 HPAI,domestic,chicken,0,15,15,0,0
+216817,-4.889079,104.902,Asia,Indonesia,3/22/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+216815,-4.834687,105.042,Asia,Indonesia,3/22/2016,H5N1 HPAI,domestic,chicken,0,23,23,0,0
+216807,-7.077583,112.316,Asia,Indonesia,3/22/2016,H5N1 HPAI,domestic,duck,0,40,40,0,0
+212661,30.814585,120.01959,Asia,China,3/22/2016,H7N9 LPAI,,,0,0,0,1,1
+212660,30.814585,120.01959,Asia,China,3/22/2016,H7N9 LPAI,,,0,0,0,1,0
+216797,-6.925674,106.651,Asia,Indonesia,3/23/2016,H5N1 HPAI,domestic,muscovy ducks,0,4,4,0,0
+211612,31.129303,30.090595,Africa,Egypt,3/23/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+211611,30.733576,31.689895,Africa,Egypt,3/23/2016,H5N1 HPAI,domestic,chicken,0,35000,0,0,0
+211610,25.85316,32.794489,Africa,Egypt,3/23/2016,H5N1 HPAI,domestic,duck,0,10000,0,0,0
+216830,-2.930874,104.539,Asia,Indonesia,3/24/2016,H5N1 HPAI,domestic,chicken,0,60,60,0,0
+216809,-8.216314,113.255,Asia,Indonesia,3/24/2016,H5N1 HPAI,domestic,duck,0,9500,9500,0,0
+211676,27.161705,31.202664,Africa,Egypt,3/24/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+211677,29.208352,30.709447,Africa,Egypt,3/25/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+216800,-6.566139,111.048,Asia,Indonesia,3/26/2016,H5N1 HPAI,domestic,chicken,0,22,22,0,0
+211678,26.547103,31.685399,Africa,Egypt,3/26/2016,H5N1 HPAI,domestic,chicken,0,7,0,0,0
+216799,-6.860153,106.984,Asia,Indonesia,3/27/2016,H5N1 HPAI,domestic,quail,0,1100,1100,0,0
+211679,29.442171,30.831992,Africa,Egypt,3/27/2016,H5N1 HPAI,domestic,chicken,0,3000,0,0,0
+216812,-5.332484,105.237,Asia,Indonesia,3/28/2016,H5N1 HPAI,domestic,chicken,0,200,200,0,0
+216802,-6.836547,109.482,Asia,Indonesia,3/28/2016,H5N1 HPAI,domestic,duck,0,1800,1800,0,0
+216795,-6.981085,108.488,Asia,Indonesia,3/28/2016,H5N1 HPAI,domestic,muscovy ducks,0,17,17,0,0
+216794,-6.981085,108.488,Asia,Indonesia,3/28/2016,H5N1 HPAI,domestic,chicken,0,31,31,0,0
+216782,-6.352034,106.294,Asia,Indonesia,3/28/2016,H5N1 HPAI,domestic,chicken,0,46,46,0,0
+216781,-6.377697,106.228,Asia,Indonesia,3/28/2016,H5N1 HPAI,domestic,chicken,0,19,19,0,0
+216828,-3.910888,119.859,Asia,Indonesia,3/29/2016,H5N1 HPAI,domestic,duck,0,6957,6957,0,0
+216801,-7.003809,109.671,Asia,Indonesia,3/29/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216829,-3.940312,119.865,Asia,Indonesia,3/30/2016,H5N1 HPAI,domestic,duck,0,7700,7700,0,0
+216813,-5.377259,105.273,Asia,Indonesia,3/30/2016,H5N1 HPAI,domestic,chicken,0,25,25,0,0
+216810,-0.130953,117.238,Asia,Indonesia,3/30/2016,H5N1 HPAI,domestic,chicken,0,4,4,0,0
+216803,-7.48259,110.927,Asia,Indonesia,3/30/2016,H5N1 HPAI,domestic,duck,0,1350,1350,0,0
+216793,-6.991877,108.67,Asia,Indonesia,3/30/2016,H5N1 HPAI,domestic,chicken,0,60,60,0,0
+216791,-6.462064,108.408,Asia,Indonesia,3/30/2016,H5N1 HPAI,domestic,duck,0,5,5,0,0
+216786,-7.261235,108.45,Asia,Indonesia,3/30/2016,H5N1 HPAI,domestic,chicken,0,2167,2167,0,0
+211680,27.539087,30.76911,Africa,Egypt,3/30/2016,H5N1 HPAI,domestic,turkey,0,5500,0,0,0
+211752,29.865555,31.330759,Africa,Egypt,3/31/2016,H5N1 HPAI,domestic,chicken,0,33,0,0,0
+211751,28.951494,30.85256,Africa,Egypt,3/31/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+211714,9.85405,8.85002,Africa,Nigeria,3/31/2016,H5N1 HPAI,domestic,chicken,204,2,2,0,0
+211713,9.8802,8.0058,Africa,Nigeria,3/31/2016,H5N1 HPAI,domestic,chicken,13536,200,200,0,0
+216644,-5.328208,105.205,Asia,Indonesia,4/1/2016,H5N1 HPAI,domestic,duck,0,86,86,0,0
+216622,-6.554666,107.446,Asia,Indonesia,4/1/2016,H5N1 HPAI,domestic,muscovy ducks,0,5,5,0,0
+216616,-6.986042,108.677,Asia,Indonesia,4/1/2016,H5N1 HPAI,domestic,chicken,0,140,140,0,0
+216615,-6.477844,108.343,Asia,Indonesia,4/1/2016,H5N1 HPAI,domestic,muscovy ducks,0,24,24,0,0
+216614,-6.450267,108.434,Asia,Indonesia,4/1/2016,H5N1 HPAI,domestic,duck,0,5,5,0,0
+216611,-6.366178,108.255,Asia,Indonesia,4/1/2016,H5N1 HPAI,domestic,chicken,0,54,54,0,0
+216604,-6.378421,106.25,Asia,Indonesia,4/1/2016,H5N1 HPAI,domestic,chicken,0,17,17,0,0
+211783,19.183,105.6313,Asia,Vietnam,4/1/2016,H5N1 HPAI,domestic,unspecified bird,200,100,50,0,0
+211753,30.018599,31.27147,Africa,Egypt,4/1/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+211715,9.83279,8.86445,Africa,Nigeria,4/1/2016,H5N1 HPAI,domestic,chicken,4878,76,76,0,0
+212002,11.1005,7.7438,Africa,Nigeria,4/2/2016,H5N1 HPAI,domestic,chicken,30000,6000,6000,0,0
+212494,6.14182,0.05132,Africa,Ghana,4/3/2016,H5N1 HPAI,domestic,chicken,3940,2210,2210,0,0
+216646,-4.62852,105.082,Asia,Indonesia,4/4/2016,H5N1 HPAI,domestic,chicken,0,350,350,0,0
+216623,-7.728014,109.704,Asia,Indonesia,4/5/2016,H5N1 HPAI,domestic,chicken,0,99,99,0,0
+216619,-6.792319,108.434,Asia,Indonesia,4/5/2016,H5N1 HPAI,domestic,quail,0,7000,7000,0,0
+216618,-7.041666,108.505,Asia,Indonesia,4/5/2016,H5N1 HPAI,domestic,chicken,0,43,43,0,0
+216612,-6.356175,108.374,Asia,Indonesia,4/5/2016,H5N1 HPAI,domestic,chicken,0,4,4,0,0
+211811,26.13884,32.452374,Africa,Egypt,4/5/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+211754,30.05366,31.26457,Africa,Egypt,4/6/2016,H5N1 HPAI,domestic,duck,0,20,0,0,0
+211818,22.408705,114.057637,Asia,"Hong Kong, SAR",4/6/2016,H7N9 LPAI,,,0,0,0,1,0
+216656,0.496737,124.469,Asia,Indonesia,4/7/2016,H5N1 HPAI,domestic,chicken,0,5,5,0,0
+216653,-5.226436,120.244,Asia,Indonesia,4/7/2016,H5N1 HPAI,domestic,chicken,0,15,15,0,0
+216645,-5.377562,105.77,Asia,Indonesia,4/7/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+211812,26.68868,31.47053,Africa,Egypt,4/7/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,13,0,0,0
+216628,-6.883502,111.681,Asia,Indonesia,4/8/2016,H5N1 HPAI,domestic,muscovy ducks,0,6,6,0,0
+211891,25.426929,30.561346,Africa,Egypt,4/8/2016,H5N1 HPAI,domestic,chicken,0,170,0,0,0
+216613,-6.434232,108.374,Asia,Indonesia,4/9/2016,H5N1 HPAI,domestic,chicken,0,4,4,0,0
+211892,29.865555,31.330759,Africa,Egypt,4/9/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+211893,29.208352,30.709447,Africa,Egypt,4/10/2016,H5N1 HPAI,domestic,duck,0,1200,0,0,0
+216627,-7.480978,110.28,Asia,Indonesia,4/11/2016,H5N1 HPAI,domestic,chicken,0,10,10,0,0
+211816,22.1722,95.1656,Asia,Myanmar,4/11/2016,H5N1 HPAI,domestic,chicken,123074,2284,2284,0,0
+216649,-3.864012,119.65,Asia,Indonesia,4/12/2016,H5N1 HPAI,domestic,chicken,0,17,17,0,0
+212495,5.29234,-1.98894,Africa,Ghana,4/12/2016,H5N1 HPAI,domestic,chicken,252,102,102,0,0
+211817,23.341933,113.444197,Asia,China,4/12/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+216626,-7.059128,110.282,Asia,Indonesia,4/13/2016,H5N1 HPAI,domestic,muscovy ducks,0,2,2,0,0
+216650,-3.834666,119.791,Asia,Indonesia,4/14/2016,H5N1 HPAI,domestic,duck,0,124,124,0,0
+216648,-5.182053,119.489,Asia,Indonesia,4/14/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216606,-6.116103,106.176,Asia,Indonesia,4/14/2016,H5N1 HPAI,domestic,chicken,0,15,15,0,0
+211858,4.9,-1.75,Africa,Ghana,4/14/2016,H5N1 HPAI,domestic,chicken,0,250,0,0,0
+211857,6.14182,0.05132,Africa,Ghana,4/14/2016,H5N1 HPAI,domestic,chicken,4791,2107,2107,0,0
+211860,5.591509,-0.226957,Africa,Ghana,4/15/2016,H5N1 HPAI,domestic,chicken,1746,393,393,0,0
+216652,-3.944347,119.785,Asia,Indonesia,4/17/2016,H5N1 HPAI,domestic,chicken,0,202,202,0,0
+216651,-3.89392,119.822,Asia,Indonesia,4/17/2016,H5N1 HPAI,domestic,chicken,0,57,57,0,0
+211797,26.955411,114.913993,Asia,China,4/17/2016,H7N9 LPAI,,,0,0,0,1,0
+211796,26.955411,114.913993,Asia,China,4/17/2016,H7N9 LPAI,,,0,0,0,1,0
+212026,31.568039,118.630293,Asia,China,4/18/2016,H7N9 LPAI,,,0,0,0,1,0
+216657,2.065627,98.884,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,duck,0,50,50,0,0
+216643,3.35704,117.554,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,215,215,0,0
+216642,3.704912,117.681,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+216641,3.721592,117.529,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216640,3.658596,117.589,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216639,3.533565,116.995,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216638,3.448584,117.248,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216637,3.512024,117.104,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216636,3.631408,116.874,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216635,3.538063,116.788,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216634,3.588752,116.86,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216633,3.530296,116.899,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+216632,3.437532,116.902,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216631,3.445231,116.984,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216630,3.464755,116.937,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+216629,3.424713,116.976,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,51,51,0,0
+216617,-6.874218,108.501,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,19,19,0,0
+216609,-6.244379,107.094,Asia,Indonesia,4/19/2016,H5N1 HPAI,domestic,chicken,0,18,18,0,0
+216605,-6.159426,106.172,Asia,Indonesia,4/20/2016,H5N1 HPAI,domestic,chicken,0,15,15,0,0
+211896,29.825055,31.237321,Africa,Egypt,4/20/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+211894,27.161705,31.202664,Africa,Egypt,4/20/2016,H5N1 HPAI,domestic,"duck,turkey,unspecified bird",0,20,0,0,0
+211863,33.8707,36.1399,Asia,Lebanon,4/20/2016,H5N1 HPAI,domestic,chicken,80000,20000,20000,0,0
+216647,-3.404667,119.19,Asia,Indonesia,4/21/2016,H5N1 HPAI,domestic,duck,0,300,300,0,0
+211895,28.101845,30.721899,Africa,Egypt,4/21/2016,H5N1 HPAI,domestic,chicken,0,61,0,0,0
+216655,-5.126296,120.246,Asia,Indonesia,4/22/2016,H5N1 HPAI,domestic,chicken,0,17,17,0,0
+211952,9.9801,105.6181,Asia,Vietnam,4/23/2016,H5N1 HPAI,domestic,unspecified bird,395,250,140,0,0
+216625,-7.70365,110.631,Asia,Indonesia,4/25/2016,H5N1 HPAI,domestic,muscovy ducks,0,10,10,0,0
+216624,-7.70365,110.631,Asia,Indonesia,4/25/2016,H5N1 HPAI,domestic,chicken,27,4,4,0,0
+212542,5.51299,-0.45118,Africa,Ghana,4/25/2016,H5N1 HPAI,domestic,chicken,9000,1278,1278,0,0
+212498,5.51299,-0.45118,Africa,Ghana,4/25/2016,H5N1 HPAI,domestic,chicken,9000,1278,1278,0,0
+216621,-6.661935,108.327,Asia,Indonesia,4/26/2016,H5N1 HPAI,domestic,chicken,0,30,30,0,0
+216620,-6.730006,108.312,Asia,Indonesia,4/26/2016,H5N1 HPAI,domestic,quail,0,400,400,0,0
+216610,-6.366178,108.255,Asia,Indonesia,4/26/2016,H5N1 HPAI,domestic,chicken,0,26,26,0,0
+216608,-6.763684,107.467,Asia,Indonesia,4/26/2016,H5N1 HPAI,domestic,duck,0,1,1,0,0
+216607,-3.466921,102.239,Asia,Indonesia,4/27/2016,H5N1 HPAI,domestic,chicken,0,1,1,0,0
+212023,26.081818,32.749275,Africa,Egypt,4/28/2016,H5N1 HPAI,domestic,chicken,0,50,0,0,0
+211955,37.17,119.91,Asia,China,4/28/2016,H7N9 LPAI,,,0,0,0,1,0
+216654,-5.126296,120.246,Asia,Indonesia,4/30/2016,H5N1 HPAI,domestic,chicken,0,2,2,0,0
+212293,31.109169,31.383177,Africa,Egypt,5/1/2016,H5N1 HPAI,,,0,0,0,1,1
+212034,17.54,77.3,Asia,India,5/1/2016,H5N1 HPAI,domestic,chicken,142789,8200,8200,0,0
+216669,-2.776969,119.203,Asia,Indonesia,5/3/2016,H5N1 HPAI,domestic,chicken,0,11,11,0,0
+216662,-6.451856,108.423,Asia,Indonesia,5/3/2016,H5N1 HPAI,domestic,quail,0,57,57,0,0
+212024,30.750584,31.875915,Africa,Egypt,5/4/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,2,0,0,0
+212025,28.952911,30.962793,Africa,Egypt,5/5/2016,H5N1 HPAI,domestic,duck,0,30,0,0,0
+217694,29.30321,30.571836,Africa,Egypt,5/7/2016,H5N1 HPAI,,,0,0,0,1,1
+216663,-6.344277,108.297,Asia,Indonesia,5/8/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+216659,-7.986951,110.284,Asia,Indonesia,5/9/2016,H5N1 HPAI,domestic,muscovy ducks,0,16,16,0,0
+212276,30.360758,31.371089,Africa,Egypt,5/9/2016,H5N1 HPAI,domestic,turkey,0,1000,0,0,0
+212275,30.297469,31.313835,Africa,Egypt,5/9/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+212274,29.442171,30.831992,Africa,Egypt,5/9/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,40,0,0,0
+213232,33.8707,36.1399,Asia,Lebanon,5/10/2016,H5N1 HPAI,domestic,chicken,126000,20000,20000,0,0
+212277,28.101845,30.721899,Africa,Egypt,5/10/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+212279,27.161705,31.202664,Africa,Egypt,5/11/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+212278,27.539087,30.76911,Africa,Egypt,5/11/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+212548,27.879244,120.315155,Asia,China,5/11/2016,H7N9 LPAI,,,0,0,0,1,0
+212534,31.568833,120.344116,Asia,China,5/11/2016,H7N9 LPAI,,,0,0,0,1,0
+212533,32.207145,120.850858,Asia,China,5/11/2016,H7N9 LPAI,,,0,0,0,1,1
+212532,32.207145,120.850858,Asia,China,5/11/2016,H7N9 LPAI,,,0,0,0,1,0
+212531,31.611923,119.435559,Asia,China,5/11/2016,H7N9 LPAI,,,0,0,0,1,0
+212530,31.568833,120.344116,Asia,China,5/11/2016,H7N9 LPAI,,,0,0,0,1,1
+212529,31.568833,120.344116,Asia,China,5/11/2016,H7N9 LPAI,,,0,0,0,1,1
+216670,-3.37396,119.101,Asia,Indonesia,5/12/2016,H5N1 HPAI,domestic,chicken,0,2,2,0,0
+212608,25.85316,32.794489,Africa,Egypt,5/12/2016,H5N1 HPAI,domestic,chicken,0,24,0,0,0
+212281,29.300739,30.889937,Africa,Egypt,5/12/2016,H5N1 HPAI,domestic,duck,0,40,0,0,0
+212280,28.101845,30.721899,Africa,Egypt,5/12/2016,H5N1 HPAI,domestic,duck,0,12,0,0,0
+216668,1.193095,124.842,Asia,Indonesia,5/13/2016,H5N1 HPAI,domestic,duck,0,63,63,0,0
+216665,-6.874218,108.501,Asia,Indonesia,5/13/2016,H5N1 HPAI,domestic,chicken,0,22,22,0,0
+214917,7.3442,-5.0423,Africa,Cote d'Ivoire,5/13/2016,H5N1 HPAI,domestic,unspecified bird,184,184,184,0,0
+211859,5.763429,-0.074075,Africa,Ghana,5/13/2016,H5N1 HPAI,domestic,chicken,10436,1042,1042,0,0
+216671,-3.836696,119.889,Asia,Indonesia,5/14/2016,H5N1 HPAI,domestic,chicken,0,1763,1763,0,0
+212609,26.13884,32.452374,Africa,Egypt,5/14/2016,H5N1 HPAI,domestic,chicken,0,35,0,0,0
+212610,29.300739,30.889937,Africa,Egypt,5/16/2016,H5N1 HPAI,domestic,chicken,0,1000,0,0,0
+213210,22.3913,113.9715,Asia,"Hong Kong, SAR",5/16/2016,H7N9 LPAI,domestic,unspecified bird,0,1,0,0,0
+212612,30.771506,31.102173,Africa,Egypt,5/17/2016,H5N1 HPAI,domestic,chicken,0,35000,0,0,0
+212611,28.951494,30.85256,Africa,Egypt,5/17/2016,H5N1 HPAI,domestic,duck,0,21,0,0,0
+216667,1.067306,101.059,Asia,Indonesia,5/19/2016,H5N1 HPAI,domestic,chicken,0,1,1,0,0
+216666,-6.948543,110.054,Asia,Indonesia,5/19/2016,H5N1 HPAI,domestic,duck,0,500,500,0,0
+216661,-6.172881,107.105,Asia,Indonesia,5/19/2016,H5N1 HPAI,domestic,chicken,0,5,5,0,0
+216660,-6.220715,107.046,Asia,Indonesia,5/20/2016,H5N1 HPAI,domestic,chicken,0,8,8,0,0
+216658,-7.922754,110.379,Asia,Indonesia,5/20/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+212663,3.865473,11.484552,Africa,Cameroon,5/20/2016,H5N1 HPAI,domestic,chicken,33000,15000,15000,0,0
+213175,2.938417,11.16227,Africa,Cameroon,5/21/2016,H5N1 HPAI,domestic,chicken,4650,2000,2000,0,0
+212729,3.86195,11.53319,Africa,Cameroon,5/21/2016,H5N1 HPAI,domestic,unspecified bird,1200,682,682,0,0
+212728,2.91507,11.16377,Africa,Cameroon,5/21/2016,H5N1 HPAI,domestic,unspecified bird,1202,352,352,0,0
+213971,3.950039,11.498142,Africa,Cameroon,5/23/2016,H5N1 HPAI,domestic,chicken,500,133,133,0,0
+213970,2.938355,11.14659,Africa,Cameroon,5/23/2016,H5N1 HPAI,domestic,chicken,66,66,66,0,0
+213969,2.908029,11.180791,Africa,Cameroon,5/23/2016,H5N1 HPAI,domestic,duck,20,7,7,0,0
+212682,30.297469,31.313835,Africa,Egypt,5/23/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+216664,-7.337251,109.588,Asia,Indonesia,5/24/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+213973,2.909731,11.14532,Africa,Cameroon,5/24/2016,H5N1 HPAI,domestic,chicken,500,200,200,0,0
+213972,2.909738,11.145312,Africa,Cameroon,5/24/2016,H5N1 HPAI,domestic,duck,30,15,15,0,0
+216672,-5.115007,120.212,Asia,Indonesia,5/25/2016,H5N1 HPAI,domestic,chicken,0,8,8,0,0
+212685,30.587772,31.492923,Africa,Egypt,5/25/2016,H5N1 HPAI,domestic,"chicken,duck,goose,unspecified bird",0,50,0,0,0
+212684,29.825055,31.237321,Africa,Egypt,5/25/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+212683,27.539087,30.76911,Africa,Egypt,5/25/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+213974,3.755666,11.46825,Africa,Cameroon,5/26/2016,H5N1 HPAI,domestic,chicken,5813,30,30,0,0
+212686,29.825055,31.237321,Africa,Egypt,5/26/2016,H5N1 HPAI,domestic,"chicken,turkey,unspecified bird",0,18,0,0,0
+212945,39.91,116.65,Asia,China,5/26/2016,H7N9 LPAI,,,0,0,0,1,0
+212662,24.162855,116.148967,Asia,China,5/26/2016,H7N9 LPAI,,,0,0,0,1,1
+216673,-0.116387,100.619,Asia,Indonesia,5/27/2016,H5N1 HPAI,domestic,duck,0,200,200,0,0
+212957,10.52324,7.40121,Africa,Nigeria,5/28/2016,H5N1 HPAI,domestic,chicken,5000,1053,1053,0,0
+213975,2.886311,11.11481,Africa,Cameroon,5/29/2016,H5N1 HPAI,domestic,unspecified bird,351,7,7,0,0
+213339,30.894517,31.306644,Africa,Egypt,5/29/2016,H5N1 HPAI,domestic,chicken,0,53,0,0,0
+214758,30.05,31.233333,Africa,Egypt,5/30/2016,H5N1 HPAI,,,0,0,0,1,0
+213976,3.832964,11.470791,Africa,Cameroon,5/30/2016,H5N1 HPAI,domestic,chicken,500,200,200,0,0
+213340,29.468431,30.971718,Africa,Egypt,5/30/2016,H5N1 HPAI,domestic,chicken,0,7000,0,0,0
+214918,7.278,-5.0275,Africa,Cote d'Ivoire,5/31/2016,H5N1 HPAI,domestic,duck,11,4,4,0,0
+213341,31.052301,31.451994,Africa,Egypt,5/31/2016,H5N1 HPAI,domestic,chicken,0,16,0,0,0
+212944,5.295661,10.451634,Africa,Cameroon,5/31/2016,H5N1 HPAI,domestic,"unspecified bird,swine",12020,1500,1500,0,0
+212731,5.492797,10.397273,Africa,Cameroon,5/31/2016,H5N1 HPAI,domestic,chicken,428,61,61,0,0
+213545,22.838333,113.608333,Asia,China,5/31/2016,H7N9 LPAI,domestic,chicken,0,1,0,0,0
+216677,3.35704,117.554,Asia,Indonesia,6/1/2016,H5N1 HPAI,domestic,chicken,0,215,215,0,0
+213977,2.930124,11.147616,Africa,Cameroon,6/1/2016,H5N1 HPAI,domestic,chicken,6000,1439,1439,0,0
+213344,29.37437,30.6901,Africa,Egypt,6/2/2016,H5N1 HPAI,domestic,chicken,0,4500,0,0,0
+213343,30.807399,31.039958,Africa,Egypt,6/2/2016,H5N1 HPAI,domestic,duck,0,6000,0,0,0
+213342,28.641276,30.763997,Africa,Egypt,6/2/2016,H5N1 HPAI,domestic,chicken,0,35,0,0,0
+216680,3.444344,98.981,Asia,Indonesia,6/3/2016,H5N1 HPAI,domestic,chicken,0,175,175,0,0
+216674,-6.228728,106.892,Asia,Indonesia,6/3/2016,H5N1 HPAI,domestic,chicken,0,4,4,0,0
+213978,3.829693,11.479581,Africa,Cameroon,6/3/2016,H5N1 HPAI,domestic,chicken,831,300,300,0,0
+213045,8.8508,7.1715,Africa,Nigeria,6/3/2016,H5N1 HPAI,domestic,chicken,400,40,40,0,0
+213174,6.654656,12.098571,Africa,Cameroon,6/4/2016,H5N1 HPAI,domestic,chicken,66,48,48,0,0
+213345,30.297469,31.313835,Africa,Egypt,6/6/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+213348,29.442171,30.831992,Africa,Egypt,6/7/2016,H5N1 HPAI,domestic,chicken,0,6000,0,0,0
+213347,29.442171,30.831992,Africa,Egypt,6/7/2016,H5N1 HPAI,domestic,chicken,0,5000,0,0,0
+213346,29.300739,30.889937,Africa,Egypt,6/7/2016,H5N1 HPAI,domestic,duck,0,12,0,0,0
+213141,31.921537,118.735676,Asia,China,6/7/2016,H7N9 LPAI,,,0,0,0,1,1
+214760,30.033333,31.216667,Africa,Egypt,6/8/2016,H5N1 HPAI,,,0,0,0,1,0
+213349,29.825055,31.237321,Africa,Egypt,6/8/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+213351,27.161705,31.202664,Africa,Egypt,6/9/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+213350,28.520346,30.739265,Africa,Egypt,6/9/2016,H5N1 HPAI,domestic,duck,0,20,0,0,0
+214801,32.74,114.95,Asia,China,6/9/2016,H7N9 LPAI,,,0,0,0,1,0
+216676,-0.475362,117.271,Asia,Indonesia,6/10/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+213853,6.76478,-1.7972,Africa,Ghana,6/10/2016,H5N1 HPAI,domestic,chicken,4808,3132,3132,0,0
+214759,28.11,30.11,Africa,Egypt,6/11/2016,H5N1 HPAI,,,0,0,0,1,0
+213854,5.5772,-0.2413,Africa,Ghana,6/11/2016,H5N1 HPAI,domestic,chicken,900,812,812,0,0
+213352,30.894517,31.306644,Africa,Egypt,6/12/2016,H5N1 HPAI,domestic,duck,0,20,0,0,0
+216678,-4.706423,104.986,Asia,Indonesia,6/14/2016,H5N1 HPAI,domestic,chicken,0,15,15,0,0
+213219,39.397175,117.389246,Asia,China,6/14/2016,H7N9 LPAI,,,0,0,0,1,0
+213218,39.397175,117.389246,Asia,China,6/14/2016,H7N9 LPAI,,,0,0,0,1,0
+214842,33.1456,44.6705,Asia,Iraq,6/15/2016,H5N1 HPAI,domestic,unspecified bird,668000,439799,439799,0,0
+213353,29.09197,31.07445,Africa,Egypt,6/15/2016,H5N1 HPAI,domestic,chicken,0,3200,0,0,0
+214307,37.94,115.21,Asia,China,6/15/2016,H7N9 LPAI,,,0,0,0,1,0
+213262,41.8,123.4,Asia,China,6/15/2016,H7N9 LPAI,,,0,0,0,1,1
+213238,33.389202,119.104682,Asia,China,6/15/2016,H7N9 LPAI,,,0,0,0,1,0
+213237,31.611923,119.435559,Asia,China,6/15/2016,H7N9 LPAI,,,0,0,0,1,0
+213222,40.266901,116.593838,Asia,China,6/15/2016,H7N9 LPAI,,,0,0,0,1,0
+216675,-7.304911,110.081,Asia,Indonesia,6/16/2016,H5N1 HPAI,domestic,chicken,0,56,56,0,0
+213354,30.834732,31.648792,Africa,Egypt,6/16/2016,H5N1 HPAI,domestic,duck,0,4000,0,0,0
+213355,29.865555,31.330759,Africa,Egypt,6/17/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+216679,-3.371688,119.162,Asia,Indonesia,6/21/2016,H5N1 HPAI,domestic,duck,0,70,70,0,0
+214843,33.12508,44.733,Asia,Iraq,6/21/2016,H5N1 HPAI,domestic,unspecified bird,28000,800,800,0,0
+214844,33.08875,44.73482,Asia,Iraq,6/22/2016,H5N1 HPAI,domestic,unspecified bird,112500,1325,1325,0,0
+213713,6.42202,2.90235,Africa,Nigeria,6/22/2016,H5N1 HPAI,domestic,chicken,4000,1355,1355,0,0
+213708,27.220974,31.053307,Africa,Egypt,6/22/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+213929,30.409623,31.528498,Africa,Egypt,6/23/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+213709,28.520346,30.739265,Africa,Egypt,6/23/2016,H5N1 HPAI,domestic,"duck,turkey,unspecified bird",0,16,0,0,0
+214919,5.29464,-3.783389,Africa,Cote d'Ivoire,6/24/2016,H5N1 HPAI,domestic,chicken,27453,2483,2483,0,0
+213710,25.660463,32.654871,Africa,Egypt,6/24/2016,H5N1 HPAI,domestic,chicken,0,12000,0,0,0
+215572,26.071111,119.303611,Asia,China,6/24/2016,H7N9 LPAI,,,0,0,0,1,0
+213930,25.660463,32.654871,Africa,Egypt,6/25/2016,H5N1 HPAI,domestic,chicken,0,45,0,0,0
+215573,26.071111,119.303611,Asia,China,6/25/2016,H7N9 LPAI,,,0,0,0,1,1
+214846,33.01888,44.78453,Asia,Iraq,6/29/2016,H5N1 HPAI,domestic,unspecified bird,539000,51049,51049,0,0
+214845,33.10281,44.7288,Asia,Iraq,6/29/2016,H5N1 HPAI,domestic,unspecified bird,15700,160,160,0,0
+215993,5.54819,-0.38646,Africa,Ghana,6/30/2016,H5N1 HPAI,domestic,chicken,250,250,250,0,0
+215241,5.5337,-0.35158,Africa,Ghana,7/1/2016,H5N1 HPAI,domestic,unspecified bird,609,484,484,0,0
+214028,5.54819,-0.38646,Africa,Ghana,7/1/2016,H5N1 HPAI,domestic,chicken,250,250,250,0,0
+216693,-4.87218,104.864,Asia,Indonesia,7/2/2016,H5N1 HPAI,domestic,chicken,0,1,1,0,0
+216696,-3.205098,118.843,Asia,Indonesia,7/3/2016,H5N1 HPAI,domestic,chicken,0,80,80,0,0
+214029,5.54708,-0.42547,Africa,Ghana,7/3/2016,H5N1 HPAI,domestic,chicken,1500,734,734,0,0
+214921,5.331072,-4.238687,Africa,Cote d'Ivoire,7/4/2016,H5N1 HPAI,domestic,chicken,4100,1070,1070,0,0
+214920,5.329782,-4.238762,Africa,Cote d'Ivoire,7/4/2016,H5N1 HPAI,domestic,chicken,1070,507,507,0,0
+214113,30.29617,31.30694,Africa,Egypt,7/4/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+214112,30.45251,31.20115,Africa,Egypt,7/4/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+214114,28.10054,30.64102,Africa,Egypt,7/5/2016,H5N1 HPAI,domestic,"chicken,duck,turkey,unspecified bird",0,30,0,0,0
+214115,27.11725,31.23243,Africa,Egypt,7/7/2016,H5N1 HPAI,domestic,turkey,0,6,0,0,0
+215094,7.35585,3.81306,Africa,Nigeria,7/8/2016,H5N1 HPAI,domestic,unspecified bird,1647,886,886,0,0
+214847,33.6438,44.79765,Asia,Iraq,7/9/2016,H5N1 HPAI,domestic,unspecified bird,914000,410,410,0,0
+215001,30.12653,31.145126,Africa,Egypt,7/10/2016,H5N1 HPAI,domestic,chicken,0,100,0,0,0
+215000,30.125164,31.339166,Africa,Egypt,7/10/2016,H5N1 HPAI,domestic,chicken,0,5000,0,0,0
+216683,-6.134317,107.264,Asia,Indonesia,7/11/2016,H5N1 HPAI,domestic,duck,0,700,700,0,0
+214850,33.0985,44.73152,Asia,Iraq,7/11/2016,H5N1 HPAI,domestic,unspecified bird,17000,2315,2315,0,0
+214849,33.09154,44.73868,Asia,Iraq,7/11/2016,H5N1 HPAI,domestic,unspecified bird,19335,1500,1500,0,0
+214848,33.09154,44.73868,Asia,Iraq,7/11/2016,H5N1 HPAI,domestic,unspecified bird,58000,400,400,0,0
+216695,-4.406622,119.875,Asia,Indonesia,7/12/2016,H5N1 HPAI,domestic,quail,0,299,299,0,0
+216682,-7.915289,110.311,Asia,Indonesia,7/12/2016,H5N1 HPAI,domestic,duck,0,945,945,0,0
+214851,33.0135,44.84864,Asia,Iraq,7/12/2016,H5N1 HPAI,domestic,unspecified bird,146500,7530,7530,0,0
+216685,-6.434871,108.421,Asia,Indonesia,7/13/2016,H5N1 HPAI,domestic,chicken,0,6,6,0,0
+214852,33.01591,44.78618,Asia,Iraq,7/13/2016,H5N1 HPAI,domestic,unspecified bird,305000,7660,7660,0,0
+214568,45.08139,1.359444,Europe,France,7/13/2016,H5N1 HPAI,domestic,chicken,4400,1000,1000,0,0
+216689,-7.628733,110.221,Asia,Indonesia,7/14/2016,H5N1 HPAI,domestic,chicken,0,100,100,0,0
+223316,30.13417,91.35568,Asia,China,7/15/2016,H5N1 HPAI,domestic,duck,0,1,0,0,0
+223314,23.60237,104.87042,Asia,China,7/15/2016,H5N1 HPAI,domestic,duck,0,1,0,0,0
+223311,23.60456,102.95693,Asia,China,7/15/2016,H5N1 HPAI,domestic,chicken,0,1,0,0,0
+223309,24.15151,102.2319,Asia,China,7/15/2016,H5N1 HPAI,domestic,duck,0,1,0,0,0
+223269,31.83373,116.32334,Asia,China,7/15/2016,H5N1 HPAI,domestic,"duck,chicken",0,2,0,0,0
+223261,31.56883,120.34412,Asia,China,7/15/2016,H5N1 HPAI,domestic,chicken,0,1,0,0,0
+223258,32.20714,120.85086,Asia,China,7/15/2016,H5N1 HPAI,domestic,chicken,0,1,0,0,0
+223256,37.74117,115.87669,Asia,China,7/15/2016,H5N1 HPAI,domestic,"chicken,duck,goose",0,3,0,0,0
+216687,-7.672354,108.048,Asia,Indonesia,7/15/2016,H5N1 HPAI,domestic,chicken,0,40,40,0,0
+215002,30.587772,31.492923,Africa,Egypt,7/18/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,19,0,0,0
+214802,40.266901,116.593838,Asia,China,7/18/2016,H7N9 LPAI,,,0,0,0,1,0
+216692,-0.412083,117.286,Asia,Indonesia,7/20/2016,H5N1 HPAI,domestic,chicken,0,2,2,0,0
+215994,5.54519,-0.39011,Africa,Ghana,7/20/2016,H5N1 HPAI,domestic,chicken,702,20,20,0,0
+214730,27.879244,120.315155,Asia,China,7/21/2016,H7N9 LPAI,,,0,0,0,1,1
+216690,-7.054,112.075,Asia,Indonesia,7/22/2016,H5N1 HPAI,domestic,quail,0,2000,2000,0,0
+215104,30.016667,31.216667,Africa,Egypt,7/24/2016,H5N1 HPAI,,,0,0,0,1,1
+216686,-6.439132,108.353,Asia,Indonesia,7/25/2016,H5N1 HPAI,domestic,muscovy ducks,0,10,10,0,0
+216694,-8.516329,116.48,Asia,Indonesia,7/26/2016,H5N1 HPAI,domestic,chicken,0,100,100,0,0
+215575,39.335327,115.643033,Asia,China,7/26/2016,H7N9 LPAI,,,0,0,0,1,0
+217357,5.354455,-4.258067,Africa,Cote d'Ivoire,7/27/2016,H5N1 HPAI,domestic,chicken,70000,44634,44634,0,0
+216684,-6.244379,107.094,Asia,Indonesia,7/27/2016,H5N1 HPAI,domestic,duck,0,2080,2080,0,0
+216691,-3.057394,114.304,Asia,Indonesia,7/28/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+216688,-7.105547,110.85,Asia,Indonesia,7/28/2016,H5N1 HPAI,domestic,chicken,0,147,147,0,0
+216681,-3.82126,102.306,Asia,Indonesia,7/28/2016,H5N1 HPAI,domestic,chicken,0,37,37,0,0
+215576,39.335327,115.643033,Asia,China,7/29/2016,H7N9 LPAI,,,0,0,0,1,0
+215617,30.449917,31.200721,Africa,Egypt,7/30/2016,H5N1 HPAI,domestic,chicken,0,16000,0,0,0
+215618,30.03167,31.11194,Africa,Egypt,8/1/2016,H5N1 HPAI,domestic,chicken,0,10,0,0,0
+215995,5.60388,-0.34729,Africa,Ghana,8/2/2016,H5N1 HPAI,domestic,chicken,390,200,200,0,0
+215619,27.220974,31.053307,Africa,Egypt,8/3/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+217080,-7.6765,110.536,Asia,Indonesia,8/4/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+217087,-5.0895,119.509,Asia,Indonesia,8/5/2016,H5N1 HPAI,domestic,chicken,0,10,10,0,0
+217078,-6.5041,108.189,Asia,Indonesia,8/6/2016,H5N1 HPAI,domestic,chicken,0,2,2,0,0
+215620,30.297469,31.313835,Africa,Egypt,8/7/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+217084,-3.0574,114.304,Asia,Indonesia,8/8/2016,H5N1 HPAI,domestic,chicken,0,25,25,0,0
+217083,-3.1059,114.211,Asia,Indonesia,8/8/2016,H5N1 HPAI,domestic,chicken,0,38,38,0,0
+217082,-3.042,114.271,Asia,Indonesia,8/8/2016,H5N1 HPAI,domestic,chicken,0,30,30,0,0
+217086,-2.2214,106.191,Asia,Indonesia,8/12/2016,H5N1 HPAI,domestic,duck,0,11,11,0,0
+217077,-7.799,110.18,Asia,Indonesia,8/12/2016,H5N1 HPAI,domestic,duck,0,30,30,0,0
+216306,5.59962,-0.8984,Africa,Ghana,8/13/2016,H5N1 HPAI,domestic,chicken,200,25,25,0,0
+215998,5.53493,-0.43527,Africa,Ghana,8/14/2016,H5N1 HPAI,domestic,chicken,1036,972,972,0,0
+217081,-7.1834,110.381,Asia,Indonesia,8/15/2016,H5N1 HPAI,domestic,muscovy ducks,0,3,3,0,0
+216307,5.5855,-0.1155,Africa,Ghana,8/18/2016,H5N1 HPAI,domestic,chicken,300,121,121,0,0
+215809,6.31329,1.216332,Africa,Togo,8/18/2016,H5N1 HPAI,domestic,unspecified bird,13392,10350,10350,0,0
+215871,30.018599,31.27147,Africa,Egypt,8/19/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+215810,6.17555,1.19194,Africa,Togo,8/19/2016,H5N1 HPAI,domestic,unspecified bird,980,950,950,0,0
+217076,-6.3623,106.208,Asia,Indonesia,8/22/2016,H5N1 HPAI,domestic,chicken,0,25,25,0,0
+216308,5.5506,-0.42809,Africa,Ghana,8/23/2016,H5N1 HPAI,domestic,unspecified bird,119,33,33,0,0
+217085,-0.3987,117.182,Asia,Indonesia,8/24/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+215872,24.930454,32.854484,Africa,Egypt,8/24/2016,H5N1 HPAI,domestic,"duck,goose,unspecified bird",0,14,0,0,0
+216326,5.461312,10.448452,Africa,Cameroon,8/29/2016,H5N1 HPAI,domestic,unspecified bird,34400,2628,2628,0,0
+217434,5.1432,6.4051,Africa,Nigeria,8/30/2016,H5N1 HPAI,domestic,unspecified bird,2000,1300,1300,0,0
+217079,-6.3466,108.242,Asia,Indonesia,8/30/2016,H5N1 HPAI,domestic,chicken,0,30,30,0,0
+218750,-7.910752,110.267525,Asia,Indonesia,9/1/2016,H5N1 HPAI,domestic,chicken,0,5,5,0,0
+216327,5.60808,-0.07125,Africa,Ghana,9/1/2016,H5N1 HPAI,domestic,unspecified bird,90,32,32,0,0
+218754,-0.627787,117.039794,Asia,Indonesia,9/5/2016,H5N1 HPAI,domestic,duck,0,240,240,0,0
+218751,-7.799047,110.179791,Asia,Indonesia,9/6/2016,H5N1 HPAI,domestic,chicken,0,27,27,0,0
+216328,5.59915,-0.08999,Africa,Ghana,9/8/2016,H5N1 HPAI,domestic,chicken,400,119,119,0,0
+218753,-6.865874,109.105816,Asia,Indonesia,9/9/2016,H5N1 HPAI,domestic,duck,0,1000,1000,0,0
+217624,5.63752,-0.32639,Africa,Ghana,9/11/2016,H5N1 HPAI,domestic,unspecified bird,571,419,419,0,0
+216966,8.986736,10.03513,Africa,Nigeria,9/11/2016,H5N1 HPAI,domestic,chicken,9700,104,104,0,0
+216965,6.64778,6.23292,Africa,Nigeria,9/12/2016,H5N1 HPAI,domestic,chicken,100,90,90,0,0
+216967,9.2204,7.736,Africa,Nigeria,9/13/2016,H5N1 HPAI,domestic,chicken,100000,10000,10000,0,0
+218752,-7.378275,108.196644,Asia,Indonesia,9/20/2016,H5N1 HPAI,domestic,duck,0,12,12,0,0
+217625,5.59971,-0.27262,Africa,Ghana,9/25/2016,H5N1 HPAI,domestic,unspecified bird,150,25,25,0,0
+217355,9.1475,104.9994,Asia,Vietnam,9/25/2016,H5N1 HPAI,domestic,unspecified bird,800,500,300,0,0
+218749,-8.800791,115.210545,Asia,Indonesia,9/26/2016,H5N1 HPAI,domestic,chicken,0,6,6,0,0
+217329,25.516627,29.026082,Africa,Egypt,9/26/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,36,0,0,0
+218755,-5.226436,120.24395,Asia,Indonesia,9/27/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+217330,26.688936,31.480568,Africa,Egypt,9/27/2016,H5N1 HPAI,domestic,chicken,0,20,0,0,0
+217717,19.88,102.13,Asia,Lao PDR,9/28/2016,H5N1 HPAI,domestic,"chicken,duck",150,47,47,0,0
+221499,-7.7788,113.364,Asia,Indonesia,10/1/2016,H5N1 HPAI,domestic,chicken,0,7,7,0,0
+221492,-7.5695,110.2,Asia,Indonesia,10/3/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+221493,-7.2918,109.37,Asia,Indonesia,10/4/2016,H5N1 HPAI,domestic,chicken,0,4,4,0,0
+221489,-6.1557,107.028,Asia,Indonesia,10/6/2016,H5N1 HPAI,domestic,duck,0,25,25,0,0
+221508,0.667,124.11,Asia,Indonesia,10/7/2016,H5N1 HPAI,domestic,muscovy ducks,0,13,13,0,0
+217916,29.865555,31.330759,Africa,Egypt,10/7/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+217915,30.018599,31.27147,Africa,Egypt,10/7/2016,H5N1 HPAI,domestic,turkey,0,10,0,0,0
+221509,1.0162,124.607,Asia,Indonesia,10/10/2016,H5N1 HPAI,domestic,chicken,0,540,540,0,0
+221506,-2.0566,105.2,Asia,Indonesia,10/10/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+217875,27.0832,89.4412,Asia,Bhutan,10/10/2016,H5N1 HPAI,domestic,unspecified bird,3000,13,13,0,0
+221500,-2.5931,115.234,Asia,Indonesia,10/11/2016,H5N1 HPAI,domestic,chicken,0,700,700,0,0
+221496,-7.3852,109.355,Asia,Indonesia,10/11/2016,H5N1 HPAI,domestic,duck,0,2,2,0,0
+221494,-7.4272,109.441,Asia,Indonesia,10/11/2016,H5N1 HPAI,domestic,muscovy ducks,0,70,70,0,0
+221507,-2.0357,105.183,Asia,Indonesia,10/12/2016,H5N1 HPAI,domestic,chicken,0,100,100,0,0
+221495,-7.3368,109.366,Asia,Indonesia,10/12/2016,H5N1 HPAI,domestic,duck,0,2,2,0,0
+218717,31.229094,30.582558,Africa,Egypt,10/12/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,37,0,0,0
+221490,-6.3882,107.173,Asia,Indonesia,10/17/2016,H5N1 HPAI,domestic,chicken,0,52,52,0,0
+218718,30.03167,31.11194,Africa,Egypt,10/17/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+221504,-1.6777,105.422,Asia,Indonesia,10/18/2016,H5N1 HPAI,domestic,chicken,0,100,100,0,0
+221501,-3.3302,114.614,Asia,Indonesia,10/18/2016,H5N1 HPAI,domestic,chicken,0,42,42,0,0
+221498,-7.1769,112.345,Asia,Indonesia,10/19/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+221497,-7.2533,110.155,Asia,Indonesia,10/19/2016,H5N1 HPAI,domestic,duck,0,8,8,0,0
+221505,-2.0014,105.255,Asia,Indonesia,10/20/2016,H5N1 HPAI,domestic,chicken,0,50,50,0,0
+221503,-1.8878,106.064,Asia,Indonesia,10/22/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+219523,5.54664,-0.31106,Africa,Ghana,10/24/2016,H5N1 HPAI,domestic,chicken,900,423,423,0,0
+221488,-7.8609,110.282,Asia,Indonesia,10/25/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+221487,-7.8833,110.296,Asia,Indonesia,10/25/2016,H5N1 HPAI,domestic,chicken,0,10,10,0,0
+221486,-7.8747,110.316,Asia,Indonesia,10/25/2016,H5N1 HPAI,domestic,chicken,0,10,10,0,0
+219524,5.5749,-0.33302,Africa,Ghana,10/26/2016,H5N1 HPAI,domestic,chicken,650,389,389,0,0
+218719,30.523211,32.195204,Africa,Egypt,10/26/2016,H5N1 HPAI,domestic,chicken,0,30,0,0,0
+218720,29.865555,31.330759,Africa,Egypt,10/27/2016,H5N1 HPAI,domestic,chicken,0,24,0,0,0
+221502,-2.224,105.998,Asia,Indonesia,10/28/2016,H5N1 HPAI,domestic,chicken,0,26,26,0,0
+218530,5.035649,6.873486,Africa,Nigeria,10/28/2016,H5N1 HPAI,domestic,chicken,2000,50,50,0,0
+221491,-6.4391,108.353,Asia,Indonesia,10/29/2016,H5N1 HPAI,domestic,muscovy ducks,0,9,9,0,0
+221518,-5.167,119.486,Asia,Indonesia,11/1/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+221516,-2.224,105.998,Asia,Indonesia,11/2/2016,H5N1 HPAI,domestic,chicken,0,465,465,0,0
+221515,-7.787,113.421,Asia,Indonesia,11/4/2016,H5N1 HPAI,domestic,duck,0,210,210,0,0
+221514,-7.774,113.425,Asia,Indonesia,11/4/2016,H5N1 HPAI,domestic,duck,0,500,500,0,0
+221519,-4.115,104.198,Asia,Indonesia,11/6/2016,H5N1 HPAI,domestic,quail,0,200,200,0,0
+219846,31.12856,31.29662,Africa,Egypt,11/6/2016,H5N1 HPAI,domestic,duck,0,14,0,0,0
+221517,1.472,101.479,Asia,Indonesia,11/9/2016,H5N1 HPAI,domestic,chicken,0,3,3,0,0
+221510,-7.911,110.268,Asia,Indonesia,11/9/2016,H5N1 HPAI,domestic,chicken,0,2,2,0,0
+219847,28.641276,30.763997,Africa,Egypt,11/9/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,35,0,0,0
+219848,30.15582,31.3462,Africa,Egypt,11/10/2016,H5N1 HPAI,domestic,"chicken,turkey,unspecified bird",0,30,0,0,0
+218747,31.439757,120.780204,Asia,China,11/11/2016,H7N9 LPAI,,,0,0,0,1,0
+218746,30.814585,120.01959,Asia,China,11/11/2016,H7N9 LPAI,,,0,0,0,1,0
+219177,4.984795,6.920082,Africa,Nigeria,11/14/2016,H5N1 HPAI,domestic,chicken,2000,196,196,0,0
+219392,5.1908,6.6513,Africa,Nigeria,11/15/2016,H5N1 HPAI,domestic,chicken,800,54,54,0,0
+219748,10.0514,9.0432,Africa,Nigeria,11/21/2016,H5N1 HPAI,domestic,chicken,514,274,274,0,0
+219749,11.888056,8.502778,Africa,Nigeria,11/23/2016,H5N1 HPAI,domestic,unspecified bird,431,33,33,0,0
+221536,-7.01642,109.391,Asia,Indonesia,11/25/2016,H5N1 HPAI,domestic,duck,0,2000,2000,0,0
+221512,-6.874,109.525,Asia,Indonesia,11/25/2016,H5N1 HPAI,domestic,duck,0,5000,5000,0,0
+222458,31.304,120.586,Asia,China,11/25/2016,H7N9 LPAI,,,0,0,0,1,1
+221513,-7.337,109.366,Asia,Indonesia,11/26/2016,H5N1 HPAI,domestic,chicken,0,2,2,0,0
+222460,31.577,120.294,Asia,China,11/28/2016,H7N9 LPAI,,,0,0,0,1,1
+221535,-7.075,106.736,Asia,Indonesia,11/29/2016,H5N1 HPAI,domestic,duck,0,225,225,0,0
+223606,32.090176,117.448654,Asia,China,11/29/2016,H7N9 LPAI,,,0,0,0,1,0
+221511,-6.996,107.524,Asia,Indonesia,11/30/2016,H5N1 HPAI,domestic,duck,0,204,204,0,0
+221522,-6.162517,106.455,Asia,Indonesia,12/1/2016,H5N1 HPAI,domestic,duck,0,12,12,0,0
+222466,32.207,120.851,Asia,China,12/1/2016,H7N9 LPAI,,,0,0,0,1,1
+221523,-6.175327,106.44,Asia,Indonesia,12/2/2016,H5N1 HPAI,domestic,duck,0,12,12,0,0
+220192,47.4258,47.2987,Europe,Russian Federation,12/2/2016,H5 HPAI,domestic,chicken,54360,5100,5100,0,0
+221531,-3.455765,114.727,Asia,Indonesia,12/3/2016,H5N1 HPAI,domestic,chicken,0,30,30,0,0
+221530,-3.455765,114.727,Asia,Indonesia,12/3/2016,H5N1 HPAI,domestic,goose,0,1,1,0,0
+221529,-3.455765,114.727,Asia,Indonesia,12/3/2016,H5N1 HPAI,domestic,duck,0,20,20,0,0
+222427,23.288,113.828,Asia,China,12/4/2016,H7N9 LPAI,,,0,0,0,1,1
+222650,13.52,2.09,Africa,Niger,12/5/2016,H5N1 HPAI,domestic,unspecified bird,22,14,14,0,0
+220869,30.651944,118.722518,Asia,China,12/5/2016,H7N9 LPAI,,,0,0,0,1,1
+221533,-4.76037,104.977,Asia,Indonesia,12/6/2016,H5N1 HPAI,domestic,chicken,0,197,197,0,0
+222465,31.808,119.972,Asia,China,12/6/2016,H7N9 LPAI,,,0,0,0,1,1
+222462,31.577,120.294,Asia,China,12/6/2016,H7N9 LPAI,,,0,0,0,1,1
+222467,31.808,119.972,Asia,China,12/7/2016,H7N9 LPAI,,,0,0,0,1,1
+222433,22.367,112.683,Asia,China,12/7/2016,H7N9 LPAI,,,0,0,0,1,1
+221537,-5.43524,105.248,Asia,Indonesia,12/8/2016,H5N1 HPAI,domestic,chicken,0,52,52,0,0
+221008,30.36515,32.32138,Africa,Egypt,12/8/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+220895,45.558,38.0876,Europe,Russian Federation,12/8/2016,H5 HPAI,domestic,unspecified bird,86,74,74,0,0
+223608,32.97482,119.56324,Asia,China,12/8/2016,H7N9 LPAI,,,0,0,0,1,0
+222469,31.808,119.972,Asia,China,12/8/2016,H7N9 LPAI,,,0,0,0,1,1
+220866,22.408705,114.057637,Asia,"Hong Kong, SAR",12/8/2016,H7N9 LPAI,,,0,0,0,1,0
+221528,-3.419572,114.807,Asia,Indonesia,12/9/2016,H5N1 HPAI,domestic,chicken,0,8,8,0,0
+220137,24.162855,116.148967,Asia,China,12/9/2016,H7N9 LPAI,,,0,0,0,1,0
+221534,-4.103382,120.132,Asia,Indonesia,12/12/2016,H5N1 HPAI,domestic,chicken,0,20,20,0,0
+222474,31.808,119.972,Asia,China,12/12/2016,H7N9 LPAI,,,0,0,0,1,1
+222472,31.577,120.294,Asia,China,12/12/2016,H7N9 LPAI,,,0,0,0,1,1
+220870,32.090176,117.448654,Asia,China,12/12/2016,H7N9 LPAI,,,0,0,0,1,1
+222428,23.288,113.828,Asia,China,12/13/2016,H7N9 LPAI,,,0,0,0,1,1
+220872,32.090176,117.448654,Asia,China,12/13/2016,H7N9 LPAI,,,0,0,0,1,0
+220871,32.090176,117.448654,Asia,China,12/13/2016,H7N9 LPAI,,,0,0,0,1,0
+220238,31.439757,120.780204,Asia,China,12/13/2016,H7N9 LPAI,,,0,0,0,1,0
+220237,32.207145,120.850858,Asia,China,12/13/2016,H7N9 LPAI,,,0,0,0,1,0
+220236,31.39,120.96,Asia,China,12/13/2016,H7N9 LPAI,,,0,0,0,1,0
+220235,31.39,120.96,Asia,China,12/13/2016,H7N9 LPAI,,,0,0,0,1,0
+220234,26.00369,119.115386,Asia,China,12/13/2016,H7N9 LPAI,,,0,0,0,1,0
+220233,22.198327,113.548063,Asia,Macau,12/13/2016,H7N9 LPAI,,,0,0,0,1,0
+223605,32.090176,117.448654,Asia,China,12/15/2016,H7N9 LPAI,,,0,0,0,1,0
+222481,31.577,120.294,Asia,China,12/15/2016,H7N9 LPAI,,,0,0,0,1,1
+222475,31.808,119.972,Asia,China,12/15/2016,H7N9 LPAI,,,0,0,0,1,1
+222471,31.808,119.972,Asia,China,12/15/2016,H7N9 LPAI,,,0,0,0,1,1
+222434,22.595,113.079,Asia,China,12/15/2016,H7N9 LPAI,,,0,0,0,1,1
+220906,46.585976,33.464403,Europe,Ukraine,12/16/2016,H5 HPAI,wild,mute swan (cygnus olor),0,10,10,0,0
+220905,46.705126,33.422463,Europe,Ukraine,12/16/2016,H5 HPAI,domestic,unspecified bird,30,2,2,0,0
+220904,46.208418,34.508658,Europe,Ukraine,12/16/2016,H5 HPAI,domestic,unspecified bird,98,6,6,0,0
+223607,32.04183,117.1691,Asia,China,12/16/2016,H7N9 LPAI,,,0,0,0,1,1
+222518,29.867,121.55,Asia,China,12/17/2016,H7N9 LPAI,,,0,0,0,1,1
+222436,23.05,112.467,Asia,China,12/17/2016,H7N9 LPAI,,,0,0,0,1,1
+221010,30.42615,32.18335,Africa,Egypt,12/18/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,20,0,0,0
+221009,29.442,30.832,Africa,Egypt,12/18/2016,H5N1 HPAI,domestic,chicken,0,2000,0,0,0
+222504,31.304,120.586,Asia,China,12/18/2016,H7N9 LPAI,,,0,0,0,1,1
+222450,32.09,117.449,Asia,China,12/18/2016,H7N9 LPAI,,,0,0,0,1,1
+221847,20.31,86.07,Asia,India,12/19/2016,H5N1 HPAI,wild,crow,0,23,23,0,0
+221520,-6.165631,106.211,Asia,Indonesia,12/19/2016,H5N1 HPAI,domestic,muscovy ducks,0,150,150,0,0
+221111,20.31,86.07,Asia,India,12/19/2016,H5N1 HPAI,"domestic,wild","domestic, unspecified bird, wild, crow",2242,42,42,0,0
+222500,31.577,120.294,Asia,China,12/19/2016,H7N9 LPAI,,,0,0,0,1,1
+222452,31.069,118.353,Asia,China,12/19/2016,H7N9 LPAI,,,0,0,0,1,1
+221016,31.20021,31.01609,Africa,Egypt,12/20/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,45,0,0,0
+221015,30.42615,32.18335,Africa,Egypt,12/20/2016,H5N1 HPAI,domestic,duck,0,25,0,0,0
+221014,30.42615,32.18335,Africa,Egypt,12/20/2016,H5N1 HPAI,domestic,chicken,0,30,0,0,0
+221013,31.10917,31.38318,Africa,Egypt,12/20/2016,H5N1 HPAI,domestic,"chicken,duck,unspecified bird",0,52,0,0,0
+221012,31.44105,31.88146,Africa,Egypt,12/20/2016,H5N1 HPAI,domestic,duck,0,20,0,0,0
+221011,30.6513,31.10814,Africa,Egypt,12/20/2016,H5N1 HPAI,domestic,chicken,0,45,0,0,0
+222609,32.090176,117.448654,Asia,China,12/20/2016,H7N9 LPAI,,,0,0,0,1,1
+222503,31.808,119.972,Asia,China,12/20/2016,H7N9 LPAI,,,0,0,0,1,1
+220867,24.48,118.08,Asia,China,12/20/2016,H7N9 LPAI,,,0,0,0,1,0
+221532,-5.348462,105.312,Asia,Indonesia,12/21/2016,H5N1 HPAI,domestic,turkey,0,60,60,0,0
+221521,-6.161395,106.438,Asia,Indonesia,12/21/2016,H5N1 HPAI,domestic,duck,0,1900,1900,0,0
+221017,27.162,31.203,Africa,Egypt,12/21/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+222455,31.069,118.353,Asia,China,12/21/2016,H7N9 LPAI,,,0,0,0,1,1
+222451,32.09,117.449,Asia,China,12/21/2016,H7N9 LPAI,,,0,0,0,1,1
+222439,23.396,116.482,Asia,China,12/21/2016,H7N9 LPAI,,,0,0,0,1,1
+222437,23.05,112.467,Asia,China,12/21/2016,H7N9 LPAI,,,0,0,0,1,1
+220868,31.098395,121.370231,Asia,China,12/21/2016,H7N9 LPAI,,,0,0,0,1,0
+221594,42.3825,23.4048,Europe,Bulgaria,12/22/2016,H5 HPAI,domestic,unspecified bird,33,19,19,0,0
+221467,20.420079,72.833739,Asia,India,12/22/2016,H5N1 HPAI,domestic,chicken,510,5,5,0,0
+221019,29.442171,30.831992,Africa,Egypt,12/22/2016,H5N1 HPAI,domestic,duck,0,1200,0,0,0
+221018,30.36515,32.32138,Africa,Egypt,12/22/2016,H5N1 HPAI,domestic,duck,0,10,0,0,0
+222453,32.681,119.014,Asia,China,12/22/2016,H7N9 LPAI,,,0,0,0,1,1
+220873,31.833733,116.323342,Asia,China,12/22/2016,H7N9 LPAI,,,0,0,0,1,0
+221020,26.13884,32.452374,Africa,Egypt,12/23/2016,H5N1 HPAI,domestic,chicken,0,8,0,0,0
+222524,29.083,119.65,Asia,China,12/23/2016,H7N9 LPAI,,,0,0,0,1,1
+222506,31.304,120.586,Asia,China,12/23/2016,H7N9 LPAI,,,0,0,0,1,1
+222501,31.577,120.294,Asia,China,12/23/2016,H7N9 LPAI,,,0,0,0,1,1
+222449,22.996,113.793,Asia,China,12/23/2016,H7N9 LPAI,,,0,0,0,1,1
+222614,34.26,117.21,Asia,China,12/25/2016,H7N9 LPAI,,,0,0,0,1,1
+222538,33.93,116.45,Asia,China,12/25/2016,H7N9 LPAI,,,0,0,0,1,1
+222505,31.304,120.586,Asia,China,12/25/2016,H7N9 LPAI,,,0,0,0,1,1
+222425,26,107.8,Asia,China,12/25/2016,H7N9 LPAI,,,0,0,0,1,1
+221106,45.0594,38.197,Europe,Russian Federation,12/26/2016,H5 HPAI,domestic,unspecified bird,5478,601,601,0,0
+222402,26.68868,31.47053,Africa,Egypt,12/27/2016,H5N1 HPAI,domestic,chicken,0,44,0,0,0
+221893,47.843767,40.050887,Europe,Russian Federation,12/27/2016,H5 HPAI,domestic,turkey,161368,755,755,0,0
+221527,-6.731516,108.243,Asia,Indonesia,12/27/2016,H5N1 HPAI,domestic,quail,0,1000,1000,0,0
+221107,47.6845,40.1335,Europe,Russian Federation,12/27/2016,H5 HPAI,domestic,turkey,60120,1174,1174,0,0
+221526,-7.300657,108.162,Asia,Indonesia,12/28/2016,H5N1 HPAI,domestic,chicken,0,25,25,0,0
+221525,-7.300657,108.162,Asia,Indonesia,12/28/2016,H5N1 HPAI,domestic,muscovy ducks,0,2,2,0,0
+221524,-7.300657,108.162,Asia,Indonesia,12/28/2016,H5N1 HPAI,domestic,duck,0,5,5,0,0
+222424,29.3,117.2,Asia,China,12/30/2016,H7N9 LPAI,,,0,0,0,1,1
+221413,22.56,72.39,Asia,India,12/31/2016,H5N1 HPAI,domestic,unspecified bird,191,25,25,0,0
+226997,29.266667,120.216667,Asia,China,12/31/2016,H7N9 LPAI,environmental sample,unspecified bird,0,31,0,0,0

@@ -2,12 +2,19 @@
 <html lang="">
   <head>
     <meta charset="utf-8"/>
-    <title>Avian Influenza</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Avian Influenza</title>
+    <script src="libraries/p5.min.js"></script>
+    <script src="https://unpkg.com/mappa-mundi@0.0.5/dist/mappa.js" type="text/javascript"></script>
+    <script src= "https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/addons/p5.dom.min.js"></script>
+    
+    <script src="classes/CountryNetwork.js"></script>
+    <script src="classes/CountryInformation.js"></script>
+    <script src="classes/BubbleCountry.js"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
-    
-    
   </head>
+
   <body>
       <header>
           <div>
@@ -19,45 +26,66 @@
               </div>
           </div>
       </header>
-  
+
       <section>
           <div id="topics">
               <div>How the trades of poultry and eggs between countries changed over the spread of avian influenza?</div>
               <div id="topicIntroduction">
                   <div>
                       <img src="image/what.JPG" />
-                      <p>The following visualization shows the animal(including live animal and poultry & egg)
-                        exportation and importation relation between the avian influenza affected countries</p>
+                      <p>The following visualization shows <br><br>(1) the animation of yearly avian outbreak countries and <br><br>(2) the animal product(including live animal vs poultry & egg)
+                        exportation and importation relation between these affected countries.</p>
                   </div>
                   <div>
                       <img src="image/why.JPG" />
                       <p>The reason why we should care about the trade of live animals between countries is because we found 
                         there existed some poultry/eggs trades between Thailand and other countries(such as Japan) in 2004 
                         when the outbreak happened in Thailand and some of these countries became the next outbreak places. 
-                        Therefore, we generated more comprehensive graphs to see if the commerce of infected products was 
+                        Therefore, we generated more comprehensive graphs to see if the commerce of potential infected products was 
                         a cause of virus spread. 
                       </p>
                   </div>
                   <div>
                       <img src="image/how.jpg" />
-                      <p>To understand the visualization, please refer the following explanation.
-                         First, the middle bar shows the main outbreak countries.
-                         The left-hand side shows from which countries that the middle main country imported the live animals products.
-                         The right-hand side shows to which countries that the middle main country exported the live animals products.
-                         Second, the size of bubble shows the total trade of live animals.
-                         Third, the location of dotted lines shows how much trade money of the poultry and eggs products. 
+                      <p>
+                        (1) Use the slider to select the year.
+                        (2) See the animation of avian flu spread during the selected year (Free to zoom in/out).
+                        (3) Click the blue link of any outbreak country to see the trade between this country and other countries. 
+                        (The left side shows from which countries that the selected country imported the products.
+                        The right side shows to which countries that the selected country exported the products.
+                        The size of bubble shows total trade money of all products.
+                        The location of dotted lines shows total trade money of poultry & eggs products.)
+                        (4) Click on the bubble country can see the detailed trade information.
+                         
                       </p>
                   </div>
               </div>
           </div>
       </section>
       <section>
-          <div id="scripts"> 
-            <div>
-              <script src="libraries/p5.min.js"></script>
-              <script src="sketch.js"></script>
+          <div id="scripts">
+            
+            
+            <div id="sliderBlock">
+                <div>Year</div>
+                <input id="slide" type="range" class="slider" min="2003" max="2019" step="1" value="2003">
+                <div id="sliderAmount" value="2003"></div>
+            </div>
+            <div id="countryText">
+              <p>Outbreak Country: <span id="countries"></span></p>
             </div>
           </div>
       </section>
+      
+          <div id="sketch-holder"><script src="sketch.js"></script></div>
+      
+      <section>
+        <p>
+        <div id='detail'>
+        </div>
+      </p></section>
+      
+      
   </body>
+
 </html>
