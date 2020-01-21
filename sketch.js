@@ -9,8 +9,8 @@ var sketch_avianMap = function(a_map){
   a_map.countries;
 
   a_map.options = {
-    lat: 27, //34,
-    lng: 85, //69,
+    lat: 34, //27, 
+    lng: 69, //85, 
     zoom: 3,
     style: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
   }
