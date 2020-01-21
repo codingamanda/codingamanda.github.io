@@ -36,6 +36,7 @@ class BubbleCountry{
 			this.color = tradeGraph.color("grey");
 
 			var information = tradeGraph.select('#detail');
+			information.position(700)
 			if(this.htmlInformation!=null){
 				information.html(this.htmlInformation, false);
 			}

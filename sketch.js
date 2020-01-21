@@ -9,14 +9,15 @@ var sketch_avianMap = function(a_map){
   a_map.countries;
 
   a_map.options = {
-    lat: 34,
-    lng: 69,
-    zoom: 2,
+    lat: 27, //34,
+    lng: 85, //69,
+    zoom: 3,
     style: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
   }
 
   a_map.setup = function(){
-    a_map.canvas = a_map.createCanvas(a_map.windowWidth/2, 550);
+    //a_map.canvas = a_map.createCanvas(a_map.windowWidth/2, 550);
+    a_map.canvas = a_map.createCanvas(a_map.windowWidth-30, 550);
     a_map.canvas.parent('sketch-holder');
     // Create both of your off-screen graphics buffers
     //leftBuffer = createGraphics(windowWidth/2, windowWidth/2);
@@ -224,7 +225,9 @@ var sketch_tradeGraph = function(t_graph){
     t_graph.cnv = t_graph.createCanvas(t_graph.windowWidth/2-50,550);
     
     t_graph.cnv.parent('sketch-holder');
-    t_graph.cnv.position((t_graph.windowWidth/2)+30);
+    //t_graph.cnv.position((t_graph.windowWidth/2)+30);
+    t_graph.cnv.position(50);
+    
     //t_graph.slider = t_graph.createSlider(t_graph.sliderStartY,t_graph.sliderEndY,(t_graph.sliderStartY)); 
     //t_graph.slider.position(t_graph.sliderXMargin,t_graph.sliderYPos)
     //t_graph.slider.style('width', (t_graph.w-2*t_graph.sliderXMargin)+'px');
@@ -288,11 +291,11 @@ var sketch_tradeGraph = function(t_graph){
       if(countries_json.data[i].display_id !=null &&
 		countries_json.data[i].id != null && 
 		countries_json.data[i].comtrade_name !=null){ 
-              t_graph.countries.push(countries_json.data[i].comtrade_name);
-              t_graph.countries_codes.push(countries_json.data[i].display_id);
+        t_graph.countries.push(countries_json.data[i].comtrade_name);
+        t_graph.countries_codes.push(countries_json.data[i].display_id);
         t_graph.countries_ids.push(countries_json.data[i].id);
         t_graph.borders_lands.push(countries_json.data[i].borders_land);
-	t_graph.countries_pics.push(countries_json.data[i].icon);
+	      t_graph.countries_pics.push(countries_json.data[i].icon);
       }
     } 
   }
@@ -550,7 +553,7 @@ var sketch_tradeGraph = function(t_graph){
       t_graph.fill(50, 50, 100);
       t_graph.text(textValue, bPosX, t_graph.sliderYPos);
           }
-      t_graph.drawColorLegend(x1-30,t_graph.sliderYPos-60);
+      t_graph.drawColorLegend(x1-120,t_graph.sliderYPos-60);
   }
   
  t_graph.drawColorLegend = function(xPos, yPos){
