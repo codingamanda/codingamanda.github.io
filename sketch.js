@@ -17,7 +17,8 @@ var sketch_avianMap = function(a_map){
 
   a_map.setup = function(){
     //a_map.canvas = a_map.createCanvas(a_map.windowWidth/2, 550);
-    a_map.canvas = a_map.createCanvas(a_map.windowWidth-30, 550);
+    a_map.canvas = a_map.createCanvas(a_map.windowWidth*3/5, 550);
+    //a_map.canvas = a_map.createCanvas(a_map.windowWidth-30, 550);
     a_map.canvas.parent('sketch-holder');
     // Create both of your off-screen graphics buffers
     //leftBuffer = createGraphics(windowWidth/2, windowWidth/2);

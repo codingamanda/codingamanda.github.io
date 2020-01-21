@@ -5,10 +5,10 @@ body {
  
 header {
     background-image: url(image/avian-flu.jpg);
-    color: rgb(255, 255, 255);
+    color: rgb(230, 250, 230);
     font-weight: bold;
     width: 1140px;
-    height: 330px;
+    height: 350px;
     text-align: center;
     margin: 0 auto;
 }
@@ -41,7 +41,7 @@ section {
 }
  
 #topics>div:first-child {
-    font-size: 38px;
+    font-size: 35px;
     text-align: center;
     margin: 40px auto 30px auto;
 }
@@ -52,7 +52,7 @@ section {
 }
  
 #topicIntroduction div {
-    width: 260px;
+    width: 300px;
     height: 280px;
 }
 
@@ -79,7 +79,7 @@ section {
 }
 
 #sliderBlock div {
-    width: 260px;
+    width: 300px;
     height: 50px;
     font-size: 24px;
     font-weight: bold;
