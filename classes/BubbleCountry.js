@@ -15,8 +15,18 @@ class BubbleCountry{
 		this.alpha = 100
 		this.countryName = countryName;
 		this.htmlInformation = htmlInformation;
-		if(this.diameter>80){
-			this.diameter = 80;
+		
+		if(this.diameter>70){
+			if(this.diameter < 1000){
+				this.diameter = (this.diameter-70)/(300-70)*(90-70);
+			}else{				
+				if(this.diameter < 6000){
+					this.diameter = (this.diameter-90)/(700-90)*(100-90);
+				}else{
+					//console.log(this.diameter)
+					this.diameter = 120;
+				}
+			}
 		}
 	}
 	

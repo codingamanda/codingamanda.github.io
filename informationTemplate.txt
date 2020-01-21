@@ -1,54 +1,65 @@
 <table style="height: 200px; width: 800px;">
 <tbody>
 <tr>
-<td style="width: 126px; text-align: center;"><img src="https://oec.worldbaseCountryFlag" alt="baseCountryName flag" width="170" height="170" /></td>
-<td style="width: 268.167px; text-align: center;" rowspan="2">
-<h1 style="color: #5e9ca0;">Trading between</h1>
-<h1 style="color: #5e9ca0;">baseCountryName and partnerCountryName</h1>
-<h1 style="color: #5e9ca0;">(year)</h1>
-<h3 style="text-align: center;">&nbsp;</h3>
 </td>
 <td style="width: 138.833px; text-align: center;"><img src="https://oec.worldpartnerCountryFlag" alt="partnerCountryName flag" width="170" height="170" /></td>
+<td style="width: 268.167px; text-align: center;" rowspan="2">
+<h1 style="color: #5e9ca0;">Trading between</h1>
+<h1 style="color: #5e9ca0;">partnerCountryName and baseCountryName</h1>
+<h1 style="color: #5e9ca0;">(year)</h1>
+<h3 style="text-align: center;">&nbsp;</h3>
+<td style="width: 126px; text-align: center;"><img src="https://oec.worldbaseCountryFlag" alt="baseCountryName flag" width="170" height="170" /></td>
 </tr>
 <tr>
-<td style="width: 126px;">
-<h3 style="text-align: center;"><span style="color: #993366;">baseCountryRegion</span></h3>
-</td>
 <td style="width: 138.833px;">
+<h3 style="text-align: center;"><span style="color: #993366;">partnerCountryName</span></h3>
 <h3 style="text-align: center;"><span style="color: #993366;">partnerCountryRegion</span></h3>
 </td>
+
+<td style="width: 126px;">
+<h3 style="text-align: center;"><span style="color: #993366;">baseCountryName</span></h3>
+<h3 style="text-align: center;"><span style="color: #993366;">baseCountryRegion</span></h3>
+</td>
+
 </tr>
 <tr>
-<td style="width: 126px;">
-<h4><span style="color: #000080;">TotalExportation</span></h4>
+
+<td style="width: 138.833px;">
+<h4 style="text-align: right;"><span style="color: #000080;">TotalImportation</span></h4>
 </td>
+
 <td style="width: 268.167px;">
 <h4 style="text-align: center;"><span style="color: #ff6600;">Total Exportation</span></h4>
 </td>
-<td style="width: 138.833px;">
-<h4><span style="color: #000080;">TotalImportation</span></h4>
+
+<td style="width: 126px;">
+<h4 style="text-align: right;"><span style="color: #000080;">TotalExportation</span></h4>
 </td>
+
 </tr>
 <tr>
-<td style="width: 126px;">
-<h4><span style="color: #000080;">PoultryExportation</span></h4>
+<td style="width: 138.833px;">
+<h4 style="text-align: right;"><span style=";color: #000080;">PoultryImportation</span></h4>
 </td>
+
 <td style="width: 268.167px;">
 <h4 style="text-align: center;"><span style="color: #ff6600;">Poultry Exportation</span></h3>
 </td>
-<td style="width: 138.833px;">
-<h4><span style="color: #000080;">PoultryImportation</span></h4>
+
+<td style="width: 126px;">
+<h4 style="text-align: right;"><span style="color: #000080;">PoultryExportation</span></h4>
 </td>
+
 </tr>
 <tr>
 <td style="width: 126px;">
-<h4><span style="color: #000080;">EggsExportation</span></h3>
+<h4 style="text-align: right;"><span style="color: #000080;">EggsExportation</span></h3>
 </td>
 <td style="width: 268.167px;">
 <h4 style="text-align: center;"><span style="color: #ff6600;">Eggs Exportation</span></h4>
 </td>
 <td style="width: 138.833px;">
-<h4><span style="color: #000080;">EggsImportation</span></h4>
+<h4 style="text-align: right;"><span style="color: #000080;">EggsImportation</span></h4>
 </td>
 </tr>
 </tbody>

@@ -344,7 +344,8 @@ var sketch_tradeGraph = function(t_graph){
 
     
     var borderLands = t_graph.getCountryBorders(t_graph.mainCountryCode);
-    t_graph.oCountryNetworkLoad = new CountryNetwork(t_graph.wDraw,t_graph.hDraw, t_graph.countrySelected, t_graph.mainCountryId, borderLands,year);
+	countryName = t_graph.affineCountryName(t_graph.countrySelected);
+    t_graph.oCountryNetworkLoad = new CountryNetwork(t_graph.wDraw,t_graph.hDraw, countryName, t_graph.mainCountryId, borderLands,year);
     
     var endpoint_c_export = t_graph.endpoint_countries_export.replace("year",year); 
     endpoint_c_export = endpoint_c_export.replace("countryA",t_graph.mainCountryCode);
@@ -469,7 +470,8 @@ var sketch_tradeGraph = function(t_graph){
       
       var year = avianMap.sliderValue;//t_graph.slider.value();
     
-      if(t_graph.oCountryNetworkDraw == null){	
+      if(t_graph.oCountryNetworkDraw == null){	  
+	  	mainCountry = t_graph.affineCountryName(mainCountry); 
         t_graph.oCountryNetworkDraw = new CountryNetwork(t_graph.wDraw,t_graph.hDraw, mainCountry, mainCountryId, borderLands, year);
       }
       t_graph.oCountryNetworkDraw.replaceNetwork(t_graph.oCountryNetworkLoad);
@@ -479,15 +481,31 @@ var sketch_tradeGraph = function(t_graph){
   
   t_graph.getCountryName = function(countryCode){
     for (var i=0; i< t_graph.countries_ids.length;i++){
-      if(countryCode == t_graph.countries_ids[i]){
-        var m = t_graph.match(t_graph.countries[i],'\\|');
+      if(countryCode == t_graph.countries_ids[i]){ 
+		var country = t_graph.affineCountryName(t_graph.countries[i]); 
+        return country;
+      }
+    }
+  }
+  /*
+  
+  
+  
+        var m = t_graph.match(,'\\|');
         if(m!=null){ 
           var country = t_graph.countries[i].substr(0,t_graph.countries[i].indexOf("|"));
           return country;
         } 
-        return t_graph.countries[i];
-      }
-    }
+		
+		*/
+  
+  t_graph.affineCountryName = function(countryName){
+	var m = t_graph.match(countryName,'\\|');
+	if(m!=null){ 
+		var country = countryName.substr(0,countryName.indexOf("|"));
+		return country;
+	}
+	return countryName;
   }
   
   

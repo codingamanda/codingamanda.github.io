@@ -282,7 +282,7 @@ class CountryNetwork{
 		tradeGraph.noStroke();
 		tradeGraph.textAlign(tradeGraph.CENTER, tradeGraph.CENTER);
 		tradeGraph.fill("Brown")
-		tradeGraph.text(this.countryName + " Imports, Exports and Trade Partners", this.canvasW/2,15);
+		tradeGraph.text(this.countryName + " Trade Partners", this.canvasW/2,15);
 		tradeGraph.text(this.year, this.canvasW/2,40);
 		tradeGraph.fill(0,0,200);
 		tradeGraph.textSize(22);
@@ -630,6 +630,9 @@ class CountryNetwork{
 	}
 	
 	fillDetailInformation(htmlInformation,partnerCountryId,partnerCountryName,partnerCountryRegion,baseTotalImportation,baseTotalExportation,poultryImportation,poultryExportation,eggsImportation,eggsExportation, isBorder,importPerc, exportPerc, countryPic){
+		
+		//console.log("poultryImportation " + poultryImportation +  " eggsImportation " + eggsImportation +  " poultryExportation " + poultryExportation +  " eggsExportation " + eggsExportation);
+		
 		var currentInformation = htmlInformation + ""; 
 		currentInformation = currentInformation.replace(/partnerCountryId/g,partnerCountryId); 
 		currentInformation = currentInformation.replace(/partnerCountryName/g, partnerCountryName);
@@ -637,19 +640,49 @@ class CountryNetwork{
 		if(partnerCountryRegion==null){
 			partnerCountryRegion='';
 		}
+		
+		
+		var baseTotalImportationString = this.getFormattedAmount(baseTotalImportation);
+		var baseTotalExportationString = this.getFormattedAmount(baseTotalExportation);
+		var poultryExportationString = this.getFormattedAmount(poultryExportation);
+		var poultryImportationString = this.getFormattedAmount(poultryImportation);
+		var eggsExportationString = this.getFormattedAmount(eggsExportation);
+		var eggsImportationString = this.getFormattedAmount(eggsImportation);
+		/*
+		if(eggsExportation !=null){
+			if(eggsExportation ==0){
+				poultryExportationString = baseTotalExportationString;
+			}else
+			{
+				if (baseTotalExportation!=null){
+					poultryExportationString = this.getFormattedAmount(baseTotalExportation - eggsExportation);
+				}
+			}
+		}else{
+			poultryExportationString = baseTotalExportationString;
+		}
+		
+		if(eggsImportation !=null){
+			if(eggsImportation ==0){
+				poultryImportationString = baseTotalImportationString;
+			}else
+			{
+				if (baseTotalImportation!=null){
+					poultryImportationString = this.getFormattedAmount(baseTotalImportation - eggsImportation);
+				}
+			}
+		}else{
+			poultryImportationString = baseTotalImportationString;
+		}
+		*/
+		
 		currentInformation = currentInformation.replace(/partnerCountryRegion/g,partnerCountryRegion);
-		baseTotalExportation = this.getFormattedAmount(baseTotalExportation);
-		currentInformation = currentInformation.replace(/TotalExportation/g, baseTotalExportation);
-		baseTotalImportation = this.getFormattedAmount(baseTotalImportation);
-		currentInformation = currentInformation.replace(/TotalImportation/g,baseTotalImportation);
-		poultryExportation = this.getFormattedAmount(poultryExportation);
-		currentInformation = currentInformation.replace(/PoultryExportation/g,poultryExportation);
-		poultryImportation = this.getFormattedAmount(poultryImportation);
-		currentInformation = currentInformation.replace(/PoultryImportation/g,poultryImportation);
-		eggsExportation = this.getFormattedAmount(eggsExportation);
-		currentInformation = currentInformation.replace(/EggsExportation/g,eggsExportation);
-		eggsImportation = this.getFormattedAmount(eggsImportation);
-		currentInformation = currentInformation.replace(/EggsImportation/g,eggsImportation); 
+		currentInformation = currentInformation.replace(/TotalExportation/g, baseTotalExportationString);
+		currentInformation = currentInformation.replace(/TotalImportation/g,baseTotalImportationString);
+		currentInformation = currentInformation.replace(/PoultryExportation/g,poultryExportationString);
+		currentInformation = currentInformation.replace(/PoultryImportation/g,poultryImportationString);
+		currentInformation = currentInformation.replace(/EggsExportation/g,eggsExportationString);
+		currentInformation = currentInformation.replace(/EggsImportation/g,eggsImportationString); 
 		if(isBorder){
 			currentInformation = currentInformation.replace(/do_not_share/g,'shares');
 		}else{
@@ -657,25 +690,27 @@ class CountryNetwork{
 		}
 		currentInformation = currentInformation.replace(/exportPerc/g,exportPerc);
 		currentInformation = currentInformation.replace(/importPerc/g,importPerc);
+		
 		return currentInformation;
 	}
 
 	getFormattedAmount(amount){
 		if(amount==null){ 
 			return 0;
-		}
+		} 
+		
 		var regexNumber = /\B(?=(\d{3})+(?!\d))/g;
 		amount = Math.round(amount);
 		var divisor = 1000000
-		if(amount/divisor>1){
-			return Math.round(amount/divisor).toString().replace(regexNumber, ",") + " Millions (US $)";
+		
+		if(Math.round(amount/divisor)>1){
+			return Math.round(amount/divisor).toString().replace(regexNumber, ",") + " Millions (US $)"; // 
 		}else{
-			divisor = divisor *100;
-			if(amount/divisor >1){
-				return Math.round(amount/divisor).toString().replace(regexNumber, "," + " Thousands (US $)");
+			divisor = 1000;
+			if(Math.round(amount/divisor)>1){
+				return  Math.round(amount/divisor).toString().replace(regexNumber, ",") + " Thousands (US $)";//this.formatMoney(Math.round(amount/divisor),2, ".", ",")
 			}else{
-				divisor = divisor *100;
-				return Math.round(amount/divisor).toString().replace(regexNumber, "," + " Hundreds (US $)");
+				return Math.round(amount).toString().replace(regexNumber, ",") + " (US $)";
 			}
 		}
 	}
