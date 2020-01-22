@@ -9,8 +9,8 @@ var sketch_avianMap = function(a_map){
   a_map.countries;
 
   a_map.options = {
-    lat: 27, //34,
-    lng: 85, //69,
+    lat: 34, //27,
+    lng: 69, //85,
     zoom: 3,
     style: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
   }
@@ -223,7 +223,7 @@ var sketch_tradeGraph = function(t_graph){
 
   t_graph.setup = function() {
     t_graph.cnv = t_graph.createCanvas(t_graph.windowWidth/2-50,550);
-    
+    //t_graph.cnv.parent('sketch-holder');
     t_graph.cnv.parent('sketch-holder2');
     //t_graph.cnv.position((t_graph.windowWidth/2)+30);
     t_graph.cnv.position(50);

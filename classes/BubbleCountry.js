@@ -28,6 +28,9 @@ class BubbleCountry{
 				}
 			}
 		}
+		if(this.diameter<100){
+			this.diameter =8;
+		}
 	}
 	
 	
