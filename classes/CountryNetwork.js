@@ -17,7 +17,7 @@ class CountryNetwork{
 		this.borderLands = borderLands;
 		this.xMargin = 5
 		this.importPartners = []
-		this.exportPartners = []
+		this.exportPartners = [] 
 		this.rangesExport = []
 		this.rangesImport = []
 		this.divisorExpo = 1;
@@ -53,8 +53,8 @@ class CountryNetwork{
 		//oCountryNew.rangesExport= this.arrayCopy2(this.rangesExport ,oCountryNew.rangesExport);
     //oCountryNew.rangesImport= this.arrayCopy2(this.rangesImport ,oCountryNew.rangesImport);
     
-    		tradeGraph.arrayCopy(this.importPartners ,oCountryNew.importPartners);
-		tradeGraph.arrayCopy(this.exportPartners ,oCountryNew.exportPartners);
+    	tradeGraph.arrayCopy(this.importPartners ,oCountryNew.importPartners);
+		tradeGraph.arrayCopy(this.exportPartners ,oCountryNew.exportPartners); 
 		tradeGraph.arrayCopy(this.rangesExport ,oCountryNew.rangesExport);
 		tradeGraph.arrayCopy(this.rangesImport ,oCountryNew.rangesImport);
 		
@@ -94,7 +94,7 @@ class CountryNetwork{
 		this.id = oCountryNew.id;
 		this.year = oCountryNew.year;
 		tradeGraph.arrayCopy(oCountryNew.importPartners, this.importPartners);
-		tradeGraph.arrayCopy(oCountryNew.exportPartners, this.exportPartners );
+		tradeGraph.arrayCopy(oCountryNew.exportPartners, this.exportPartners ); 
 		tradeGraph.arrayCopy(oCountryNew.rangesExport, this.rangesExport);
 		tradeGraph.arrayCopy(oCountryNew.rangesImport, this.rangesImport);	
     //this.importPartners=	this.arrayCopy2(oCountryNew.importPartners, this.importPartners);
@@ -306,8 +306,15 @@ class CountryNetwork{
 		var bubblesExpo = []//[120, 480, 220,390]		
 		var bubblesExpoPoultry = []		
 		var bubblesExpoEggs = []
+		
+		var bubblesExpoImpo = []	
+		var bubblesExpoImpoPoultry = []		
+		var bubblesExpoImpoEggs = []
+		
 		var bubblesExpoTotal = []//[1200, 4800, 2200,3900]
+		var bubblesExpoImpoTotal = []
 		var countriesExpo = [];
+		
 		var regionIndexesExpo =[]
 		var regionIndexesImpo = []
 		var isBorderExpo = []
@@ -320,7 +327,13 @@ class CountryNetwork{
 			bubblesExpo.push(this.exportPartners[i].avianTradeAmount + this.exportPartners[i].eggsTradeAmount);
 			bubblesExpoPoultry.push(this.exportPartners[i].avianTradeAmount);
 			bubblesExpoEggs.push(this.exportPartners[i].eggsTradeAmount);
+			
+			bubblesExpoImpo.push(this.exportPartners[i].avianTradeAmount2 + this.exportPartners[i].eggsTradeAmount2);
+			bubblesExpoImpoPoultry.push(this.exportPartners[i].avianTradeAmount2);
+			bubblesExpoImpoEggs.push(this.exportPartners[i].eggsTradeAmount2);
+			
 			bubblesExpoTotal.push(this.exportPartners[i].totalTradeAmount);
+			bubblesExpoImpoTotal.push(this.exportPartners[i].totalTradeAmount2);
 			countriesExpo.push(this.exportPartners[i].name);
 			regionIndexesExpo.push(this.exportPartners[i].regionIndex);
 			isBorderExpo.push(this.exportPartners[i].isBorder);
@@ -331,7 +344,13 @@ class CountryNetwork{
 		var bubblesImpo = []//[170, 599, 450,120]
 		var bubblesImpoPoultry = []
 		var bubblesImpoEggs = []
+		
+		var bubblesImpoExpo = []
+		var bubblesImpoExpoPoultry = []
+		var bubblesImpoExpoEggs = []
+		
 		var bubblesImpoTotal = []//[1700, 5990, 4500,1200]
+		var bubblesImpoExpoTotal = []
 		var countriesImpo = []//'Vietnam', 'Japan', 'India', 'Egypt']
 		
 		//var maxImpo = 0;  
@@ -344,7 +363,13 @@ class CountryNetwork{
 			bubblesImpo.push(this.importPartners[i].avianTradeAmount + this.importPartners[i].eggsTradeAmount);
 			bubblesImpoPoultry.push(this.importPartners[i].avianTradeAmount);
 			bubblesImpoEggs.push(this.importPartners[i].eggsTradeAmount);
+			
+			bubblesImpoExpo.push(this.importPartners[i].avianTradeAmount2 + this.importPartners[i].eggsTradeAmount2);
+			bubblesImpoExpoPoultry.push(this.importPartners[i].avianTradeAmount2);
+			bubblesImpoExpoEggs.push(this.importPartners[i].eggsTradeAmount2);
+			
 			bubblesImpoTotal.push(this.importPartners[i].totalTradeAmount);
+			bubblesImpoExpoTotal.push(this.importPartners[i].totalTradeAmount2);
 			countriesImpo.push(this.importPartners[i].name);
 			regionIndexesImpo.push(this.importPartners[i].regionIndex);
 			isBorderImpo.push(this.importPartners[i].isBorder);
@@ -363,7 +388,8 @@ class CountryNetwork{
 			var htmlInformation = tradingInfo;
 			var totalExport = 0;
 			var poultryExport = 0;
-			var eggsExport = 0;
+			var eggsExport = 0; 
+			/*
 			for(var j=0;j<this.exportPartners.length;j++){ 
 				if(countriesIdExpo[j]==countriesIdImpo[i]){
 					totalExport= bubblesExpoTotal[j];
@@ -371,8 +397,10 @@ class CountryNetwork{
 					eggsExport = bubblesExpoEggs[j];
 					break;
 				}
-			}
-			htmlInformation = this.fillDetailInformation(htmlInformation,countriesIdImpo[i],countriesImpo[i],tradeGraph.regionNames[regionIndexesImpo[i]],bubblesImpoTotal[i],totalExport,bubblesImpoPoultry[i],poultryExport,bubblesImpoEggs[i],eggsExport, isBorderImpo[i], 0, 0, tradeGraph.getCountryPicture(countriesIdImpo[i]));
+			}*/
+			htmlInformation = this.fillDetailInformation(htmlInformation,countriesIdImpo[i],countriesImpo[i],tradeGraph.regionNames[regionIndexesImpo[i]],
+			bubblesImpoTotal[i],bubblesImpoExpoTotal[i] /*totalExport*/, bubblesImpoPoultry[i], bubblesImpoExpoPoultry[i] /*poultryExport*/,bubblesImpoEggs[i],bubblesImpoExpoEggs[i] /*eggsExport*/, 
+			isBorderImpo[i], 0, 0, tradeGraph.getCountryPicture(countriesIdImpo[i]));
 			this.drawComercialCountry(true, bubblesImpo[i], this.rangesImport, numberOfBubblesImpo+2, i, countriesImpo[i],bubblesImpoTotal[i],i, regionIndexesImpo[i], isBorderImpo[i], htmlInformation);
 			//break;
 		}
@@ -381,15 +409,23 @@ class CountryNetwork{
 			var totalImport = 0;
 			var poultryImport = 0;
 			var eggsImport = 0;
+			/*
 			for(var j=0;j<this.importPartners.length;j++){ 
+				if(countriesIdExpo[i] == "asjpn"){
+					console.log(countriesIdImpo[j] + " Total Import X : " + bubblesImpoTotal[i] );
+					console.log(countriesIdImpo[j] + " Poultry Import X : " + bubblesImpoPoultry[i] );
+					console.log(countriesIdImpo[j] + " Eggs Import X : " + bubblesImpoEggs[i] );
+				}
 				if(countriesIdImpo[j]==countriesIdExpo[i]){
 					totalImport= bubblesImpoTotal[j];
 					poultryImport = bubblesImpoPoultry[j];
 					eggsImport = bubblesImpoEggs[j];
 					break;
 				}
-			}
-			htmlInformation = this.fillDetailInformation(htmlInformation,countriesIdExpo[i],countriesExpo[i],tradeGraph.regionNames[regionIndexesExpo[i]],totalImport,bubblesExpoTotal[i],poultryImport,bubblesExpoPoultry[i],eggsImport,bubblesExpoEggs[i], isBorderExpo[i], 0, 0, tradeGraph.getCountryPicture(countriesIdExpo[i]));
+			}*/
+			htmlInformation = this.fillDetailInformation(htmlInformation,countriesIdExpo[i],countriesExpo[i],tradeGraph.regionNames[regionIndexesExpo[i]],
+			bubblesExpoImpoTotal[i],bubblesExpoTotal[i],bubblesExpoImpoPoultry[i]/*poultryImport*/,bubblesExpoPoultry[i], bubblesExpoImpoEggs[i]/*eggsImport*/,bubblesExpoEggs[i], 
+			isBorderExpo[i], 0, 0, tradeGraph.getCountryPicture(countriesIdExpo[i]));
 	
 			this.drawComercialCountry(false, bubblesExpo[i], this.rangesExport, numberOfBubblesExpo+2, i, countriesExpo[i], bubblesExpoTotal[i],i, regionIndexesExpo[i], isBorderExpo[i], htmlInformation);
 			//break;
@@ -427,6 +463,7 @@ class CountryNetwork{
 		var indexList = [];
 		var countriesList = []
 		
+		
 		for(var i=0;i<listToProcess.length;i++){
 			importValue= listToProcess[i].avianTradeAmount + listToProcess[i].eggsTradeAmount;
 			amountsList.push(importValue);
@@ -456,16 +493,29 @@ class CountryNetwork{
 		var newList = []
 		//Look for neighbours borders
 		var borders = this.id;
-	if(this.borderLands!=null){	
-		for(var i=0;i<listToProcess.length;i++){ 
-			//var m = match(this.borderLands, listToProcess[i].code);
-			var m = this.borderLands.includes(listToProcess[i].code);
-			//if(m!=null){ 
-      if(m){
-				listToProcess[i].setIsBorder(true); 
-				newList.push(listToProcess[i]); 
+		if(this.borderLands!=null){	
+			for(var i=0;i<listToProcess.length;i++){ 
+				//var m = match(this.borderLands, listToProcess[i].code);
+				var m = this.borderLands.includes(listToProcess[i].code);
+				//if(m!=null){ 
+				if(m){
+					listToProcess[i].setIsBorder(true); 
+					newList.push(listToProcess[i]); 
+				}
 			}
 		}
+		
+		//Sort neighbours
+		for(var i=0;i<newList.length;i++){
+			for(var j=0;j<newList.length;j++){
+				var amount_i = newList[i].avianTradeAmount + newList[i].eggsTradeAmount
+				var amount_j = newList[j].avianTradeAmount + newList[j].eggsTradeAmount
+				if(amount_i > amount_j){
+					var temp = newList[i];
+					newList[i] = newList[j];
+					newList[j] = temp;
+				}
+			}
 		}
 		
 		//Look for top profiles

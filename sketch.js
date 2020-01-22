@@ -9,8 +9,8 @@ var sketch_avianMap = function(a_map){
   a_map.countries;
 
   a_map.options = {
-    lat: 34, //27, 
-    lng: 69, //85, 
+    lat: 27, //34,
+    lng: 85, //69,
     zoom: 3,
     style: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
   }
@@ -18,7 +18,6 @@ var sketch_avianMap = function(a_map){
   a_map.setup = function(){
     //a_map.canvas = a_map.createCanvas(a_map.windowWidth/2, 550);
     a_map.canvas = a_map.createCanvas(a_map.windowWidth*3/5, 550);
-    //a_map.canvas = a_map.createCanvas(a_map.windowWidth-30, 550);
     a_map.canvas.parent('sketch-holder');
     // Create both of your off-screen graphics buffers
     //leftBuffer = createGraphics(windowWidth/2, windowWidth/2);
@@ -225,7 +224,6 @@ var sketch_tradeGraph = function(t_graph){
   t_graph.setup = function() {
     t_graph.cnv = t_graph.createCanvas(t_graph.windowWidth/2-50,550);
     
-    t_graph.cnv.parent('sketch-holder');
     t_graph.cnv.parent('sketch-holder2');
     //t_graph.cnv.position((t_graph.windowWidth/2)+30);
     t_graph.cnv.position(50);
@@ -380,7 +378,7 @@ var sketch_tradeGraph = function(t_graph){
         var endpoint_export = t_graph.endpoint_trades_export.replace("year",t_graph.year);
         endpoint_export = endpoint_export.replace("countryA",t_graph.mainCountryCode);
         endpoint_export = endpoint_export.replace("countryB",t_graph.countryDestCode);
-        //print(endpoint_export);
+        //console.log(endpoint_export);
         t_graph.loadJSON(endpoint_export, t_graph.loadTradesPerCountry);
       }else{
         //print('Not found ' + t_graph.countryDest);
@@ -434,8 +432,8 @@ var sketch_tradeGraph = function(t_graph){
           }
         }
       }
-    }
-    
+    }   
+	
     var name = t_graph.getCountryName(countryCode);
     var borderLands = t_graph.getCountryBorders(countryCode);
     var month = 0;
@@ -443,12 +441,14 @@ var sketch_tradeGraph = function(t_graph){
 	var picture = t_graph.getCountryPicture(countryCode);
 	//console.log(picture);
     if(totalPoultryExport + totalEggsExport > 0){
-      var ci = new CountryInformation(countryCode, name,regionIndex, totalPoultryExport, totalEggsExport, totalExport, month, year,borderLands, picture); 
+      var ci = new CountryInformation(countryCode, name,regionIndex, totalPoultryExport, totalEggsExport, totalExport,
+	  totalPoultryImport, totalEggsImport, totalImport, month, year,borderLands, picture); 
       t_graph.oCountryNetworkLoad.addCommercialPartner(ci, false);
     }
     
     if(totalPoultryImport + totalEggsImport > 0){
-      var ci = new CountryInformation(countryCode, name,regionIndex, totalPoultryImport, totalEggsImport, totalImport, month, year,borderLands, picture); 
+      var ci = new CountryInformation(countryCode, name,regionIndex, totalPoultryImport, totalEggsImport, totalImport, 
+	  totalPoultryExport, totalEggsExport, totalExport, month, year,borderLands, picture); 
       t_graph.oCountryNetworkLoad.addCommercialPartner(ci, true);
     }
     
